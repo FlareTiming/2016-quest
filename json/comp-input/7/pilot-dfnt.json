@@ -1,0 +1,17 @@
+[
+  {
+    "awardedReach": {
+      "awardedFrac": 1.000013633636909,
+      "awardedMade": "73.349000 km",
+      "awardedTask": "73.348000 km"
+    },
+    "pilot": [
+      "115",
+      "Andrew Hollidge"
+    ],
+    "awardedVelocity": {
+      "es": "2016-05-13T20:19:21Z",
+      "ss": "2016-05-13T18:00:00Z"
+    }
+  }
+]

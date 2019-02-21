@@ -1,0 +1,1016 @@
+[
+  {
+    "taskName": "QUEST-ELLSWR",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "398.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "10000.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "9950.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.25847,
+          "zoneName": "T33DS",
+          "lng": -81.825,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 27.95703,
+          "zoneName": "SUZANE",
+          "lng": -81.60162,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 27.5919,
+          "zoneName": "AVONPK",
+          "lng": -81.52687,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 27.20555,
+          "zoneName": "ELLSWR",
+          "lng": -81.77722,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "27.20555000 deg",
+              "-81.77722000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "10000.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.25847000 deg",
+                "-81.82500000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "27.95703000 deg",
+                "-81.60162000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "27.59190000 deg",
+                "-81.52687000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      6
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
+    "startGates": [
+      "2016-05-07T17:30:00Z",
+      "2016-05-07T17:50:00Z",
+      "2016-05-07T18:10:00Z",
+      "2016-05-07T18:30:00Z"
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2016-05-08T00:00:00Z",
+        "open": "2016-05-07T16:30:00Z"
+      },
+      {
+        "close": "2016-05-08T00:00:00Z",
+        "open": "2016-05-07T17:30:00Z"
+      },
+      {
+        "close": "2016-05-08T00:00:00Z",
+        "open": "2016-05-07T17:30:00Z"
+      },
+      {
+        "close": "2016-05-08T00:00:00Z",
+        "open": "2016-05-07T17:30:00Z"
+      },
+      {
+        "close": "2016-05-08T00:00:00Z",
+        "open": "2016-05-07T17:30:00Z"
+      },
+      {
+        "close": "2016-05-08T00:00:00Z",
+        "open": "2016-05-07T17:30:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "QUEST-QUEST",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "398.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "5000.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "4975.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "3000.0 m",
+          "lat": 28.64555,
+          "zoneName": "GROSS",
+          "lng": -82.21898,
+          "give": "3015.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.71518,
+          "zoneName": "TURN33",
+          "lng": -81.8967,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "3000.0 m",
+          "lat": 28.3764,
+          "zoneName": "T47433",
+          "lng": -81.8233,
+          "give": "3015.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "28.53303000 deg",
+              "-81.84667000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "3000.0 m",
+              "center": [
+                "28.64555000 deg",
+                "-82.21898000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.71518000 deg",
+                "-81.89670000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "3000.0 m",
+              "center": [
+                "28.37640000 deg",
+                "-81.82330000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      6
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
+    "startGates": [
+      "2016-05-08T17:30:00Z",
+      "2016-05-08T17:50:00Z",
+      "2016-05-08T18:10:00Z",
+      "2016-05-08T18:30:00Z"
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2016-05-09T00:00:00Z",
+        "open": "2016-05-08T16:30:00Z"
+      },
+      {
+        "close": "2016-05-09T00:00:00Z",
+        "open": "2016-05-08T17:30:00Z"
+      },
+      {
+        "close": "2016-05-09T00:00:00Z",
+        "open": "2016-05-08T17:30:00Z"
+      },
+      {
+        "close": "2016-05-09T00:00:00Z",
+        "open": "2016-05-08T17:30:00Z"
+      },
+      {
+        "close": "2016-05-09T00:00:00Z",
+        "open": "2016-05-08T17:30:00Z"
+      },
+      {
+        "close": "2016-05-09T00:00:00Z",
+        "open": "2016-05-08T17:30:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "QUEST-CHERYL",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "398.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "5000.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "4975.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "5000.0 m",
+          "lat": 28.595,
+          "zoneName": "KOKEE",
+          "lng": -82.1498,
+          "give": "5025.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.80142,
+          "zoneName": "BARON",
+          "lng": -81.93573,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.77283,
+          "zoneName": "PANOLK",
+          "lng": -82.13307,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.67143,
+          "zoneName": "CHERYL",
+          "lng": -82.08718,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "28.67143000 deg",
+              "-82.08718000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "28.59500000 deg",
+                "-82.14980000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.80142000 deg",
+                "-81.93573000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.77283000 deg",
+                "-82.13307000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      6
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
+    "startGates": [
+      "2016-05-09T18:30:00Z",
+      "2016-05-09T18:50:00Z",
+      "2016-05-09T19:10:00Z",
+      "2016-05-09T19:30:00Z"
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2016-05-10T00:00:00Z",
+        "open": "2016-05-09T17:30:00Z"
+      },
+      {
+        "close": "2016-05-10T00:00:00Z",
+        "open": "2016-05-09T18:30:00Z"
+      },
+      {
+        "close": "2016-05-10T00:00:00Z",
+        "open": "2016-05-09T18:30:00Z"
+      },
+      {
+        "close": "2016-05-10T00:00:00Z",
+        "open": "2016-05-09T18:30:00Z"
+      },
+      {
+        "close": "2016-05-10T00:00:00Z",
+        "open": "2016-05-09T18:30:00Z"
+      },
+      {
+        "close": "2016-05-10T00:00:00Z",
+        "open": "2016-05-09T18:30:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "QUEST-QUEST",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "398.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "5000.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "4975.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.64555,
+          "zoneName": "GROSS",
+          "lng": -82.21898,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.71518,
+          "zoneName": "TURN33",
+          "lng": -81.8967,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "28.53303000 deg",
+              "-81.84667000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.64555000 deg",
+                "-82.21898000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.71518000 deg",
+                "-81.89670000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      5
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
+    "startGates": [
+      "2016-05-10T18:00:00Z",
+      "2016-05-10T18:20:00Z",
+      "2016-05-10T18:40:00Z",
+      "2016-05-10T19:00:00Z"
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2016-05-11T00:00:00Z",
+        "open": "2016-05-10T17:00:00Z"
+      },
+      {
+        "close": "2016-05-11T00:00:00Z",
+        "open": "2016-05-10T18:00:00Z"
+      },
+      {
+        "close": "2016-05-11T00:00:00Z",
+        "open": "2016-05-10T18:00:00Z"
+      },
+      {
+        "close": "2016-05-11T00:00:00Z",
+        "open": "2016-05-10T18:00:00Z"
+      },
+      {
+        "close": "2016-05-11T00:00:00Z",
+        "open": "2016-05-10T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "QUEST-QUEST",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "398.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "5000.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "4975.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.71518,
+          "zoneName": "TURN33",
+          "lng": -81.8967,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.25847,
+          "zoneName": "T33DS",
+          "lng": -81.825,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "28.53303000 deg",
+              "-81.84667000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.71518000 deg",
+                "-81.89670000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.25847000 deg",
+                "-81.82500000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      5
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
+    "startGates": [
+      "2016-05-11T18:20:00Z",
+      "2016-05-11T18:40:00Z",
+      "2016-05-11T19:00:00Z",
+      "2016-05-11T19:20:00Z"
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2016-05-12T00:00:00Z",
+        "open": "2016-05-11T17:00:00Z"
+      },
+      {
+        "close": "2016-05-12T00:00:00Z",
+        "open": "2016-05-11T18:20:00Z"
+      },
+      {
+        "close": "2016-05-12T00:00:00Z",
+        "open": "2016-05-11T18:20:00Z"
+      },
+      {
+        "close": "2016-05-12T00:00:00Z",
+        "open": "2016-05-11T18:20:00Z"
+      },
+      {
+        "close": "2016-05-12T00:00:00Z",
+        "open": "2016-05-11T18:20:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "QUEST-QUEST",
+    "zones": {
+      "raw": [
+        {
+          "radius": "400.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "398.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "5000.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "4975.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.25847,
+          "zoneName": "T33DS",
+          "lng": -81.825,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.53303,
+          "zoneName": "QUEST",
+          "lng": -81.84667,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "28.53303000 deg",
+              "-81.84667000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "5000.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.25847000 deg",
+                "-81.82500000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.53303000 deg",
+                "-81.84667000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      4
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
+    "startGates": [
+      "2016-05-12T19:30:00Z",
+      "2016-05-12T19:50:00Z",
+      "2016-05-12T20:10:00Z",
+      "2016-05-12T20:30:00Z"
+    ],
+    "penals": [],
+    "zoneTimes": [
+      {
+        "close": "2016-05-13T00:00:00Z",
+        "open": "2016-05-12T18:30:00Z"
+      },
+      {
+        "close": "2016-05-13T00:00:00Z",
+        "open": "2016-05-12T19:30:00Z"
+      },
+      {
+        "close": "2016-05-13T00:00:00Z",
+        "open": "2016-05-12T19:30:00Z"
+      },
+      {
+        "close": "2016-05-13T00:00:00Z",
+        "open": "2016-05-12T19:30:00Z"
+      }
+    ]
+  },
+  {
+    "taskName": "T7 GRASSO-WALABY",
+    "zones": {
+      "raw": [
+        {
+          "radius": "15000.0 m",
+          "lat": 28.64147,
+          "zoneName": "GRASSO",
+          "lng": -81.88063,
+          "give": "14925.0 m",
+          "alt": "30.000 m"
+        },
+        {
+          "radius": "15000.0 m",
+          "lat": 28.64147,
+          "zoneName": "GRASSO",
+          "lng": -81.88063,
+          "give": "14925.0 m",
+          "alt": "30.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.25298,
+          "zoneName": "WALABY",
+          "lng": -81.68552,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.08083,
+          "zoneName": "T27544",
+          "lng": -81.6497,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        },
+        {
+          "radius": "400.0 m",
+          "lat": 28.25298,
+          "zoneName": "WALABY",
+          "lng": -81.68552,
+          "give": "402.0 m",
+          "alt": "37.000 m"
+        }
+      ],
+      "raceKind": {
+        "race-ess-is-goal": {
+          "circle": {
+            "radius": "400.0 m",
+            "center": [
+              "28.25298000 deg",
+              "-81.68552000 deg"
+            ]
+          }
+        },
+        "race": [
+          {
+            "cylinder": {
+              "radius": "15000.0 m",
+              "center": [
+                "28.64147000 deg",
+                "-81.88063000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.25298000 deg",
+                "-81.68552000 deg"
+              ]
+            }
+          },
+          {
+            "cylinder": {
+              "radius": "400.0 m",
+              "center": [
+                "28.08083000 deg",
+                "-81.64970000 deg"
+              ]
+            }
+          }
+        ],
+        "prolog": [
+          {
+            "cylinder": {
+              "radius": "15000.0 m",
+              "center": [
+                "28.64147000 deg",
+                "-81.88063000 deg"
+              ]
+            }
+          }
+        ]
+      },
+      "openKind": null
+    },
+    "speedSection": [
+      2,
+      5
+    ],
+    "stopped": null,
+    "taskTweak": {
+      "arrivalWeightScaling": null,
+      "leadingWeightScaling": null
+    },
+    "startGates": [
+      "2016-05-13T18:00:00Z",
+      "2016-05-13T18:20:00Z",
+      "2016-05-13T18:40:00Z",
+      "2016-05-13T19:00:00Z"
+    ],
+    "penals": [
+      [
+        [
+          "115",
+          "Andrew Hollidge"
+        ],
+        [
+          {
+            "penalty-points": 16
+          }
+        ],
+        "FS would not process file correctly."
+      ]
+    ],
+    "zoneTimes": [
+      {
+        "close": "2016-05-14T00:00:00Z",
+        "open": "2016-05-13T17:00:00Z"
+      },
+      {
+        "close": "2016-05-14T00:00:00Z",
+        "open": "2016-05-13T18:00:00Z"
+      },
+      {
+        "close": "2016-05-14T00:00:00Z",
+        "open": "2016-05-13T18:00:00Z"
+      },
+      {
+        "close": "2016-05-14T00:00:00Z",
+        "open": "2016-05-13T18:00:00Z"
+      },
+      {
+        "close": "2016-05-14T00:00:00Z",
+        "open": "2016-05-13T18:00:00Z"
+      }
+    ]
+  }
+]

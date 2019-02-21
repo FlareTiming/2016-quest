@@ -1,0 +1,22 @@
+{
+  "civilId": "0",
+  "earthMath": "Haversines",
+  "discipline": "hg",
+  "location": "Groveland, Florida, USA",
+  "to": "2016-05-13",
+  "compName": "QuestAir Open",
+  "from": "2016-05-07",
+  "utcOffset": {
+    "timeZoneMinutes": -240
+  },
+  "earth": {
+    "sphere": {
+      "radius": "6371000.0 m"
+    }
+  },
+  "give": {
+    "giveDistance": null,
+    "giveFraction": 0.005
+  },
+  "scoreBack": "900.000 s"
+}

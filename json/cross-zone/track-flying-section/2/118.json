@@ -1,0 +1,32 @@
+{
+  "scoredSeconds": [
+    21,
+    3688
+  ],
+  "flyingSeconds": [
+    21,
+    3688
+  ],
+  "loggedSeconds": 4505,
+  "loggedTimes": [
+    "2016-05-08T17:14:05Z",
+    "2016-05-08T18:29:10Z"
+  ],
+  "scoredTimes": [
+    "2016-05-08T17:14:26Z",
+    "2016-05-08T18:15:33Z"
+  ],
+  "flyingFixes": [
+    21,
+    3682
+  ],
+  "flyingTimes": [
+    "2016-05-08T17:14:26Z",
+    "2016-05-08T18:15:33Z"
+  ],
+  "scoredFixes": [
+    21,
+    3682
+  ],
+  "loggedFixes": 4499
+}
