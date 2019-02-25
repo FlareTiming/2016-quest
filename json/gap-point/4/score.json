@@ -39,7 +39,7 @@
     ],
     {
       "breakdown": {
-        "time": 185.8,
+        "time": 155.8,
         "reach": 262.789,
         "distance": 525.578,
         "leading": 0,
@@ -58,7 +58,7 @@
         "ssDistance": "84.927 km",
         "gsVelocity": "23.70 km / h"
       },
-      "total": 761,
+      "total": 731,
       "landedDistance": "89.527 km",
       "penalties": [],
       "place": "2",
@@ -72,7 +72,7 @@
     ],
     {
       "breakdown": {
-        "time": 184.4,
+        "time": 154.1,
         "reach": 262.789,
         "distance": 525.578,
         "leading": 0,
@@ -91,43 +91,10 @@
         "ssDistance": "84.927 km",
         "gsVelocity": "23.70 km / h"
       },
-      "total": 752,
+      "total": 722,
       "landedDistance": "89.527 km",
       "penalties": [],
       "place": "3",
-      "reachDistance": "89.527 km"
-    }
-  ],
-  [
-    [
-      "128",
-      "Zac Majors"
-    ],
-    {
-      "breakdown": {
-        "time": 181.7,
-        "reach": 262.789,
-        "distance": 525.578,
-        "leading": 0,
-        "effort": 262.789,
-        "arrival": 35.2
-      },
-      "stoppedAlt": null,
-      "penaltyReason": "",
-      "velocity": {
-        "gs": "2016-05-10T18:00:00Z",
-        "ssVelocity": "23.63 km / h",
-        "ssElapsed": "3.593889 h",
-        "gsElapsed": "3.598889 h",
-        "es": "2016-05-10T21:35:56Z",
-        "ss": "2016-05-10T18:00:18Z",
-        "ssDistance": "84.927 km",
-        "gsVelocity": "23.60 km / h"
-      },
-      "total": 743,
-      "landedDistance": "89.527 km",
-      "penalties": [],
-      "place": "4",
       "reachDistance": "89.527 km"
     }
   ],
@@ -138,7 +105,7 @@
     ],
     {
       "breakdown": {
-        "time": 200.8,
+        "time": 173.8,
         "reach": 262.789,
         "distance": 525.578,
         "leading": 0,
@@ -157,7 +124,40 @@
         "ssDistance": "84.927 km",
         "gsVelocity": "24.30 km / h"
       },
-      "total": 740,
+      "total": 713,
+      "landedDistance": "89.527 km",
+      "penalties": [],
+      "place": "4",
+      "reachDistance": "89.527 km"
+    }
+  ],
+  [
+    [
+      "128",
+      "Zac Majors"
+    ],
+    {
+      "breakdown": {
+        "time": 150.9,
+        "reach": 262.789,
+        "distance": 525.578,
+        "leading": 0,
+        "effort": 262.789,
+        "arrival": 35.2
+      },
+      "stoppedAlt": null,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2016-05-10T18:00:00Z",
+        "ssVelocity": "23.63 km / h",
+        "ssElapsed": "3.593889 h",
+        "gsElapsed": "3.598889 h",
+        "es": "2016-05-10T21:35:56Z",
+        "ss": "2016-05-10T18:00:18Z",
+        "ssDistance": "84.927 km",
+        "gsVelocity": "23.60 km / h"
+      },
+      "total": 712,
       "landedDistance": "89.527 km",
       "penalties": [],
       "place": "5",
@@ -171,7 +171,7 @@
     ],
     {
       "breakdown": {
-        "time": 181.5,
+        "time": 150.6,
         "reach": 262.789,
         "distance": 525.578,
         "leading": 0,
@@ -190,7 +190,7 @@
         "ssDistance": "84.927 km",
         "gsVelocity": "23.60 km / h"
       },
-      "total": 737,
+      "total": 706,
       "landedDistance": "89.527 km",
       "penalties": [],
       "place": "6",
@@ -204,7 +204,7 @@
     ],
     {
       "breakdown": {
-        "time": 176.4,
+        "time": 144.5,
         "reach": 262.789,
         "distance": 525.578,
         "leading": 0,
@@ -223,7 +223,7 @@
         "ssDistance": "84.927 km",
         "gsVelocity": "23.40 km / h"
       },
-      "total": 727,
+      "total": 695,
       "landedDistance": "89.527 km",
       "penalties": [],
       "place": "7",
@@ -237,7 +237,7 @@
     ],
     {
       "breakdown": {
-        "time": 171.7,
+        "time": 138.8,
         "reach": 262.789,
         "distance": 525.578,
         "leading": 0,
@@ -256,7 +256,7 @@
         "ssDistance": "84.927 km",
         "gsVelocity": "23.20 km / h"
       },
-      "total": 709,
+      "total": 676,
       "landedDistance": "89.527 km",
       "penalties": [],
       "place": "8",
@@ -270,7 +270,7 @@
     ],
     {
       "breakdown": {
-        "time": 152.6,
+        "time": 115.7,
         "reach": 262.789,
         "distance": 525.578,
         "leading": 0,
@@ -289,7 +289,7 @@
         "ssDistance": "84.927 km",
         "gsVelocity": "22.60 km / h"
       },
-      "total": 699,
+      "total": 662,
       "landedDistance": "89.527 km",
       "penalties": [],
       "place": "9",
@@ -303,7 +303,7 @@
     ],
     {
       "breakdown": {
-        "time": 149.6,
+        "time": 112.1,
         "reach": 262.789,
         "distance": 525.578,
         "leading": 0,
@@ -322,7 +322,7 @@
         "ssDistance": "84.927 km",
         "gsVelocity": "22.50 km / h"
       },
-      "total": 693,
+      "total": 656,
       "landedDistance": "89.527 km",
       "penalties": [],
       "place": "10",
@@ -336,7 +336,7 @@
     ],
     {
       "breakdown": {
-        "time": 145.5,
+        "time": 107.2,
         "reach": 262.789,
         "distance": 525.578,
         "leading": 0,
@@ -355,7 +355,7 @@
         "ssDistance": "84.927 km",
         "gsVelocity": "22.30 km / h"
       },
-      "total": 687,
+      "total": 649,
       "landedDistance": "89.527 km",
       "penalties": [],
       "place": "11",
@@ -369,7 +369,7 @@
     ],
     {
       "breakdown": {
-        "time": 141,
+        "time": 101.7,
         "reach": 262.789,
         "distance": 525.578,
         "leading": 0,
@@ -388,7 +388,7 @@
         "ssDistance": "84.927 km",
         "gsVelocity": "22.20 km / h"
       },
-      "total": 681,
+      "total": 642,
       "landedDistance": "89.527 km",
       "penalties": [],
       "place": "12",
@@ -402,7 +402,7 @@
     ],
     {
       "breakdown": {
-        "time": 131.8,
+        "time": 90.7,
         "reach": 262.789,
         "distance": 525.578,
         "leading": 0,
@@ -421,7 +421,7 @@
         "ssDistance": "84.927 km",
         "gsVelocity": "21.90 km / h"
       },
-      "total": 670,
+      "total": 629,
       "landedDistance": "89.527 km",
       "penalties": [],
       "place": "13",
