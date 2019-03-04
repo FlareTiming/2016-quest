@@ -1,0 +1,242 @@
+[
+  [
+    [
+      "129",
+      "Mike Jefferson"
+    ],
+    {
+      "frac": 1,
+      "effort": "91.495000 km"
+    }
+  ],
+  [
+    [
+      "117",
+      "Robert Dallas"
+    ],
+    {
+      "frac": 0.98913044,
+      "effort": "89.470000 km"
+    }
+  ],
+  [
+    [
+      "126",
+      "Jeff Kannard"
+    ],
+    {
+      "frac": 0.9673913,
+      "effort": "88.351000 km"
+    }
+  ],
+  [
+    [
+      "125",
+      "Larry Bunner"
+    ],
+    {
+      "frac": 0.9347826,
+      "effort": "86.648000 km"
+    }
+  ],
+  [
+    [
+      "111",
+      "Patrick Kruse"
+    ],
+    {
+      "frac": 0.9347826,
+      "effort": "86.662000 km"
+    }
+  ],
+  [
+    [
+      "101",
+      "Davis Straub"
+    ],
+    {
+      "frac": 0.89130434,
+      "effort": "82.910000 km"
+    }
+  ],
+  [
+    [
+      "114",
+      "Mick Howard"
+    ],
+    {
+      "frac": 0.83695652,
+      "effort": "80.854000 km"
+    }
+  ],
+  [
+    [
+      "124",
+      "Patrick Pannese"
+    ],
+    {
+      "frac": 0.77173914,
+      "effort": "75.497000 km"
+    }
+  ],
+  [
+    [
+      "144",
+      "Tom Lanning"
+    ],
+    {
+      "frac": 0.72826086,
+      "effort": "68.927000 km"
+    }
+  ],
+  [
+    [
+      "115",
+      "Andrew Hollidge"
+    ],
+    {
+      "frac": 0.69565218,
+      "effort": "67.504000 km"
+    }
+  ],
+  [
+    [
+      "116",
+      "Jeffery Bohl"
+    ],
+    {
+      "frac": 0.66304348,
+      "effort": "67.438000 km"
+    }
+  ],
+  [
+    [
+      "143",
+      "Anna Eppink"
+    ],
+    {
+      "frac": 0.61956522,
+      "effort": "64.834000 km"
+    }
+  ],
+  [
+    [
+      "119",
+      "Bart Weghorst"
+    ],
+    {
+      "frac": 0.5652174,
+      "effort": "63.417000 km"
+    }
+  ],
+  [
+    [
+      "106",
+      "Fabiano Nahoum"
+    ],
+    {
+      "frac": 0.5,
+      "effort": "62.562000 km"
+    }
+  ],
+  [
+    [
+      "103",
+      "Matt Christensen"
+    ],
+    {
+      "frac": 0.4347826,
+      "effort": "62.450000 km"
+    }
+  ],
+  [
+    [
+      "141",
+      "Patrick Halfhill"
+    ],
+    {
+      "frac": 0.35869566,
+      "effort": "58.164000 km"
+    }
+  ],
+  [
+    [
+      "146",
+      "Peter Kelley"
+    ],
+    {
+      "frac": 0.27173914,
+      "effort": "52.083000 km"
+    }
+  ],
+  [
+    [
+      "133",
+      "Olav Olsen"
+    ],
+    {
+      "frac": 0.2173913,
+      "effort": "43.428000 km"
+    }
+  ],
+  [
+    [
+      "109",
+      "Michael Williams"
+    ],
+    {
+      "frac": 0.19565218,
+      "effort": "40.139000 km"
+    }
+  ],
+  [
+    [
+      "140",
+      "Bill Vickery"
+    ],
+    {
+      "frac": 0.16304348,
+      "effort": "40.092000 km"
+    }
+  ],
+  [
+    [
+      "134",
+      "Kinsley Sykes"
+    ],
+    {
+      "frac": 0.11956522,
+      "effort": "33.681000 km"
+    }
+  ],
+  [
+    [
+      "118",
+      "Ingo Heilmann"
+    ],
+    {
+      "frac": 0.07608696,
+      "effort": "29.247000 km"
+    }
+  ],
+  [
+    [
+      "110",
+      "Cory Barnwell"
+    ],
+    {
+      "frac": 0.0326087,
+      "effort": "12.992000 km"
+    }
+  ],
+  [
+    [
+      "145",
+      "Roger Irby"
+    ],
+    {
+      "frac": 0.02173914,
+      "effort": "-2.389000 km"
+    }
+  ]
+]

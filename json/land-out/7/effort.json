@@ -1,0 +1,182 @@
+[
+  [
+    [
+      "115",
+      "Andrew Hollidge"
+    ],
+    {
+      "frac": 1,
+      "effort": "69.861000 km"
+    }
+  ],
+  [
+    [
+      "144",
+      "Tom Lanning"
+    ],
+    {
+      "frac": 0.96296296,
+      "effort": "52.238000 km"
+    }
+  ],
+  [
+    [
+      "112",
+      "Sergey Kataev"
+    ],
+    {
+      "frac": 0.92592592,
+      "effort": "50.822000 km"
+    }
+  ],
+  [
+    [
+      "139",
+      "Tullio Gervasoni"
+    ],
+    {
+      "frac": 0.85185186,
+      "effort": "50.131000 km"
+    }
+  ],
+  [
+    [
+      "108",
+      "Raul Guerra"
+    ],
+    {
+      "frac": 0.74074074,
+      "effort": "40.655000 km"
+    }
+  ],
+  [
+    [
+      "120",
+      "Mike Glennon"
+    ],
+    {
+      "frac": 0.5925926,
+      "effort": "32.122000 km"
+    }
+  ],
+  [
+    [
+      "110",
+      "Cory Barnwell"
+    ],
+    {
+      "frac": 0.5925926,
+      "effort": "32.126000 km"
+    }
+  ],
+  [
+    [
+      "129",
+      "Mike Jefferson"
+    ],
+    {
+      "frac": 0.5925926,
+      "effort": "32.171000 km"
+    }
+  ],
+  [
+    [
+      "143",
+      "Anna Eppink"
+    ],
+    {
+      "frac": 0.5925926,
+      "effort": "32.172000 km"
+    }
+  ],
+  [
+    [
+      "125",
+      "Larry Bunner"
+    ],
+    {
+      "frac": 0.51851852,
+      "effort": "23.911000 km"
+    }
+  ],
+  [
+    [
+      "146",
+      "Peter Kelley"
+    ],
+    {
+      "frac": 0.44444444,
+      "effort": "13.762000 km"
+    }
+  ],
+  [
+    [
+      "118",
+      "Ingo Heilmann"
+    ],
+    {
+      "frac": 0.37037038,
+      "effort": "13.694000 km"
+    }
+  ],
+  [
+    [
+      "116",
+      "Jeffery Bohl"
+    ],
+    {
+      "frac": 0.25925926,
+      "effort": "6.616000 km"
+    }
+  ],
+  [
+    [
+      "145",
+      "Roger Irby"
+    ],
+    {
+      "frac": 0.14814814,
+      "effort": "-2.808000 km"
+    }
+  ],
+  [
+    [
+      "141",
+      "Patrick Halfhill"
+    ],
+    {
+      "frac": 0.14814814,
+      "effort": "-2.796000 km"
+    }
+  ],
+  [
+    [
+      "134",
+      "Kinsley Sykes"
+    ],
+    {
+      "frac": 0.14814814,
+      "effort": "-2.722000 km"
+    }
+  ],
+  [
+    [
+      "126",
+      "Jeff Kannard"
+    ],
+    {
+      "frac": 0.14814814,
+      "effort": "-2.710000 km"
+    }
+  ],
+  [
+    [
+      "140",
+      "Bill Vickery"
+    ],
+    {
+      "frac": 0.14814814,
+      "effort": "2.829000 km"
+    }
+  ]
+]
