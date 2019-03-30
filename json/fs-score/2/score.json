@@ -1,211 +1,25 @@
 [
   [
     [
-      "101",
-      "Davis Straub"
+      "128",
+      "Zac Majors"
     ],
     {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 404.9,
-      "distanceMade": "92.346000 km",
-      "es": null,
-      "leading": 70.2,
-      "total": 475,
-      "distanceFrac": 0.8128691518859205,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 0,
-      "place": "21"
-    }
-  ],
-  [
-    [
-      "102",
-      "Richard lovelace"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 325.9,
-      "distanceMade": "77.451000 km",
-      "es": null,
-      "leading": 39.7,
-      "total": 366,
-      "distanceFrac": 0.6817569649223187,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 0,
-      "place": "26"
-    }
-  ],
-  [
-    [
-      "103",
-      "Matt Christensen"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 441,
-      "distanceMade": "98.710000 km",
-      "es": null,
-      "leading": 28,
-      "total": 469,
-      "distanceFrac": 0.8688878130363982,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 0,
-      "place": "22"
-    }
-  ],
-  [
-    [
-      "104",
-      "Christian Pollet"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 64.9,
-      "distanceMade": "20.686000 km",
-      "es": null,
-      "leading": 0,
-      "total": 65,
-      "distanceFrac": 0.18208705602746358,
-      "ss": "2016-05-08T17:50:00Z",
-      "arrival": 0,
-      "place": "42"
-    }
-  ],
-  [
-    [
-      "106",
-      "Fabiano Nahoum"
-    ],
-    {
-      "ssElapsed": "4.259444 h",
-      "time": 144.3,
+      "timeElapsed": "3.385556 h",
+      "leadingFrac": 0.70281996,
+      "time": 368.7,
       "distance": 473.2,
+      "leadingCoef": 2.80419371,
       "distanceMade": "113.605000 km",
-      "es": "2016-05-08T21:45:34Z",
-      "leading": 75.9,
-      "total": 710,
+      "es": "2016-05-08T21:13:08Z",
+      "leading": 64.8,
+      "total": 973,
       "distanceFrac": 1,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 16.9,
-      "place": "12"
-    }
-  ],
-  [
-    [
-      "107",
-      "Malcolm Brown"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 445.8,
-      "distanceMade": "100.436000 km",
-      "es": null,
-      "leading": 43.9,
-      "total": 490,
-      "distanceFrac": 0.8840808063025395,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 0,
-      "place": "19"
-    }
-  ],
-  [
-    [
-      "108",
-      "Raul Guerra"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 415.8,
-      "distanceMade": "94.071000 km",
-      "es": null,
-      "leading": 31.3,
-      "total": 447,
-      "distanceFrac": 0.8280533427225915,
       "ss": "2016-05-08T17:50:00Z",
-      "arrival": 0,
-      "place": "24"
-    }
-  ],
-  [
-    [
-      "109",
-      "Michael Williams"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 201.2,
-      "distanceMade": "52.770000 km",
-      "es": null,
-      "leading": 0,
-      "total": 201,
-      "distanceFrac": 0.4645042031600722,
-      "ss": "2016-05-08T17:50:00Z",
-      "arrival": 0,
-      "place": "36"
-    }
-  ],
-  [
-    [
-      "110",
-      "Cory Barnwell"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 440.7,
-      "distanceMade": "98.623000 km",
-      "es": null,
-      "leading": 26.5,
-      "total": 467,
-      "distanceFrac": 0.8681220016724616,
-      "ss": "2016-05-08T17:50:00Z",
-      "arrival": 0,
-      "place": "23"
-    }
-  ],
-  [
-    [
-      "111",
-      "Patrick Kruse"
-    ],
-    {
-      "ssElapsed": "4.128611 h",
-      "time": 167.3,
-      "distance": 473.2,
-      "distanceMade": "113.605000 km",
-      "es": "2016-05-08T21:37:43Z",
-      "leading": 74.3,
-      "total": 744,
-      "distanceFrac": 1,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 29.6,
-      "place": "7"
-    }
-  ],
-  [
-    [
-      "112",
-      "Sergey Kataev"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 208.3,
-      "distanceMade": "54.573000 km",
-      "es": null,
-      "leading": 0,
-      "total": 208,
-      "distanceFrac": 0.4803749834954447,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 0,
-      "place": "34"
+      "timeFrac": 1,
+      "leadingArea": "59980971.0000 km^2 s",
+      "arrival": 65.8,
+      "place": "1"
     }
   ],
   [
@@ -214,207 +28,21 @@
       "Olav Opsanger"
     ],
     {
-      "ssElapsed": "3.868889 h",
+      "timeElapsed": "3.868889 h",
+      "leadingFrac": 1,
       "time": 217.5,
       "distance": 473.2,
+      "leadingCoef": 2.54662223,
       "distanceMade": "113.605000 km",
       "es": "2016-05-08T21:22:08Z",
       "leading": 92.2,
       "total": 841,
       "distanceFrac": 1,
       "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0.58983886,
+      "leadingArea": "54471585.0000 km^2 s",
       "arrival": 57.8,
       "place": "2"
-    }
-  ],
-  [
-    [
-      "114",
-      "Mick Howard"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 66.7,
-      "distanceMade": "21.318000 km",
-      "es": null,
-      "leading": 0,
-      "total": 67,
-      "distanceFrac": 0.18765019145284098,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 0,
-      "place": "41"
-    }
-  ],
-  [
-    [
-      "115",
-      "Andrew Hollidge"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 291.5,
-      "distanceMade": "71.593000 km",
-      "es": null,
-      "leading": 21.6,
-      "total": 313,
-      "distanceFrac": 0.6301923330839312,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 0,
-      "place": "32"
-    }
-  ],
-  [
-    [
-      "116",
-      "Jeffery Bohl"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 440.2,
-      "distanceMade": "98.500000 km",
-      "es": null,
-      "leading": 40.9,
-      "total": 481,
-      "distanceFrac": 0.8670393028475859,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 0,
-      "place": "20"
-    }
-  ],
-  [
-    [
-      "117",
-      "Robert Dallas"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 358,
-      "distanceMade": "85.515000 km",
-      "es": null,
-      "leading": 40.7,
-      "total": 399,
-      "distanceFrac": 0.7527397561727036,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 0,
-      "place": "25"
-    }
-  ],
-  [
-    [
-      "118",
-      "Ingo Heilmann"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 14,
-      "distanceMade": "5.000000 km",
-      "es": null,
-      "leading": 0,
-      "total": 14,
-      "distanceFrac": 0.04401214735266934,
-      "ss": null,
-      "arrival": 0,
-      "place": "43"
-    }
-  ],
-  [
-    [
-      "119",
-      "Bart Weghorst"
-    ],
-    {
-      "ssElapsed": "4.237222 h",
-      "time": 148.1,
-      "distance": 473.2,
-      "distanceMade": "113.605000 km",
-      "es": "2016-05-08T21:44:14Z",
-      "leading": 76.2,
-      "total": 716,
-      "distanceFrac": 1,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 18.5,
-      "place": "11"
-    }
-  ],
-  [
-    [
-      "120",
-      "Mike Glennon"
-    ],
-    {
-      "ssElapsed": "4.681944 h",
-      "time": 76.8,
-      "distance": 473.2,
-      "distanceMade": "113.605000 km",
-      "es": "2016-05-08T22:10:55Z",
-      "leading": 72.9,
-      "total": 637,
-      "distanceFrac": 1,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 13.6,
-      "place": "16"
-    }
-  ],
-  [
-    [
-      "121",
-      "Oleg Bondarchuk"
-    ],
-    {
-      "ssElapsed": "4.034444 h",
-      "time": 184.7,
-      "distance": 473.2,
-      "distanceMade": "113.605000 km",
-      "es": "2016-05-08T21:32:04Z",
-      "leading": 90.2,
-      "total": 787,
-      "distanceFrac": 1,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 38.7,
-      "place": "5"
-    }
-  ],
-  [
-    [
-      "123",
-      "JD Guillemette"
-    ],
-    {
-      "ssElapsed": "4.444444 h",
-      "time": 113.6,
-      "distance": 473.2,
-      "distanceMade": "113.605000 km",
-      "es": "2016-05-08T21:56:40Z",
-      "leading": 71,
-      "total": 674,
-      "distanceFrac": 1,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 15.7,
-      "place": "13"
-    }
-  ],
-  [
-    [
-      "124",
-      "Patrick Pannese"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 320.3,
-      "distanceMade": "76.258000 km",
-      "es": null,
-      "leading": 30,
-      "total": 350,
-      "distanceFrac": 0.6712556665639716,
-      "ss": "2016-05-08T17:50:00Z",
-      "arrival": 0,
-      "place": "29"
     }
   ],
   [
@@ -423,226 +51,21 @@
       "Larry Bunner"
     ],
     {
-      "ssElapsed": "3.923889 h",
+      "timeElapsed": "3.923889 h",
+      "leadingFrac": 0.90347072,
       "time": 206.2,
       "distance": 473.2,
+      "leadingCoef": 2.59442524,
       "distanceMade": "113.605000 km",
       "es": "2016-05-08T21:25:26Z",
       "leading": 83.3,
       "total": 813,
       "distanceFrac": 1,
       "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0.5592853,
+      "leadingArea": "55494079.0000 km^2 s",
       "arrival": 50.6,
       "place": "3"
-    }
-  ],
-  [
-    [
-      "126",
-      "Jeff Kannard"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 292.6,
-      "distanceMade": "71.778000 km",
-      "es": null,
-      "leading": 43.1,
-      "total": 336,
-      "distanceFrac": 0.63182078253598,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 0,
-      "place": "30"
-    }
-  ],
-  [
-    [
-      "127",
-      "Gerry Pesavento"
-    ],
-    {
-      "ssElapsed": "4.579167 h",
-      "time": 92.4,
-      "distance": 473.2,
-      "distanceMade": "113.605000 km",
-      "es": "2016-05-08T22:04:45Z",
-      "leading": 68.1,
-      "total": 649,
-      "distanceFrac": 1,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 14.8,
-      "place": "14"
-    }
-  ],
-  [
-    [
-      "128",
-      "Zac Majors"
-    ],
-    {
-      "ssElapsed": "3.385556 h",
-      "time": 368.7,
-      "distance": 473.2,
-      "distanceMade": "113.605000 km",
-      "es": "2016-05-08T21:13:08Z",
-      "leading": 64.8,
-      "total": 973,
-      "distanceFrac": 1,
-      "ss": "2016-05-08T17:50:00Z",
-      "arrival": 65.8,
-      "place": "1"
-    }
-  ],
-  [
-    [
-      "129",
-      "Mike Jefferson"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 113.5,
-      "distanceMade": "38.120000 km",
-      "es": null,
-      "leading": 0,
-      "total": 114,
-      "distanceFrac": 0.335548611416751,
-      "ss": "2016-05-08T17:50:00Z",
-      "arrival": 0,
-      "place": "40"
-    }
-  ],
-  [
-    [
-      "131",
-      "Robin Hamilton"
-    ],
-    {
-      "ssElapsed": "4.173611 h",
-      "time": 159.2,
-      "distance": 473.2,
-      "distanceMade": "113.605000 km",
-      "es": "2016-05-08T21:40:25Z",
-      "leading": 76.7,
-      "total": 732,
-      "distanceFrac": 1,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 23,
-      "place": "9"
-    }
-  ],
-  [
-    [
-      "132",
-      "James Stinnett"
-    ],
-    {
-      "ssElapsed": "4.158611 h",
-      "time": 161.9,
-      "distance": 473.2,
-      "distanceMade": "113.605000 km",
-      "es": "2016-05-08T21:39:31Z",
-      "leading": 76.8,
-      "total": 738,
-      "distanceFrac": 1,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 26,
-      "place": "8"
-    }
-  ],
-  [
-    [
-      "133",
-      "Olav Olsen"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 217.2,
-      "distanceMade": "57.791000 km",
-      "es": null,
-      "leading": 13.9,
-      "total": 231,
-      "distanceFrac": 0.5087012015316228,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 0,
-      "place": "33"
-    }
-  ],
-  [
-    [
-      "134",
-      "Kinsley Sykes"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 206.2,
-      "distanceMade": "53.973000 km",
-      "es": null,
-      "leading": 0,
-      "total": 206,
-      "distanceFrac": 0.4750935258131244,
-      "ss": "2016-05-08T17:50:00Z",
-      "arrival": 0,
-      "place": "35"
-    }
-  ],
-  [
-    [
-      "135",
-      "Misael Rosalez"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 331,
-      "distanceMade": "78.915000 km",
-      "es": null,
-      "leading": 30.8,
-      "total": 362,
-      "distanceFrac": 0.6946437216671801,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 0,
-      "place": "27"
-    }
-  ],
-  [
-    [
-      "137",
-      "Yoko Isomoto"
-    ],
-    {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 436.2,
-      "distanceMade": "97.700000 km",
-      "es": null,
-      "leading": 54.9,
-      "total": 491,
-      "distanceFrac": 0.8599973592711588,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 0,
-      "place": "18"
-    }
-  ],
-  [
-    [
-      "138",
-      "Jonny Durand"
-    ],
-    {
-      "ssElapsed": "4.047222 h",
-      "time": 182.3,
-      "distance": 473.2,
-      "distanceMade": "113.605000 km",
-      "es": "2016-05-08T21:32:50Z",
-      "leading": 84.7,
-      "total": 774,
-      "distanceFrac": 1,
-      "ss": "2016-05-08T17:30:00Z",
-      "arrival": 33.8,
-      "place": "6"
     }
   ],
   [
@@ -651,55 +74,136 @@
       "Tullio Gervasoni"
     ],
     {
-      "ssElapsed": "3.957222 h",
+      "timeElapsed": "3.957222 h",
+      "leadingFrac": 0.94793926,
       "time": 199.6,
       "distance": 473.2,
+      "leadingCoef": 2.56524514,
       "distanceMade": "113.605000 km",
       "es": "2016-05-08T21:27:26Z",
       "leading": 87.4,
       "total": 805,
       "distanceFrac": 1,
       "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0.5412755,
+      "leadingArea": "54869924.0000 km^2 s",
       "arrival": 44.3,
       "place": "4"
     }
   ],
   [
     [
-      "140",
-      "Bill Vickery"
+      "121",
+      "Oleg Bondarchuk"
     ],
     {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 186.2,
-      "distanceMade": "49.907000 km",
-      "es": null,
-      "leading": 0,
-      "total": 186,
-      "distanceFrac": 0.43930284758593374,
+      "timeElapsed": "4.034444 h",
+      "leadingFrac": 0.97830803,
+      "time": 184.7,
+      "distance": 473.2,
+      "leadingCoef": 2.55164715,
+      "distanceMade": "113.605000 km",
+      "es": "2016-05-08T21:32:04Z",
+      "leading": 90.2,
+      "total": 787,
+      "distanceFrac": 1,
       "ss": "2016-05-08T17:30:00Z",
-      "arrival": 0,
-      "place": "38"
+      "timeFrac": 0.50084329,
+      "leadingArea": "54579066.0000 km^2 s",
+      "arrival": 38.7,
+      "place": "5"
     }
   ],
   [
     [
-      "141",
-      "Patrick Halfhill"
+      "138",
+      "Jonny Durand"
     ],
     {
-      "ssElapsed": null,
-      "time": 0,
-      "distance": 194,
-      "distanceMade": "51.295000 km",
-      "es": null,
-      "leading": 0,
-      "total": 194,
-      "distanceFrac": 0.45152061969103474,
+      "timeElapsed": "4.047222 h",
+      "leadingFrac": 0.9186551,
+      "time": 182.3,
+      "distance": 473.2,
+      "leadingCoef": 2.58322457,
+      "distanceMade": "113.605000 km",
+      "es": "2016-05-08T21:32:50Z",
+      "leading": 84.7,
+      "total": 774,
+      "distanceFrac": 1,
       "ss": "2016-05-08T17:30:00Z",
-      "arrival": 0,
-      "place": "37"
+      "timeFrac": 0.49431176,
+      "leadingArea": "55254499.0000 km^2 s",
+      "arrival": 33.8,
+      "place": "6"
+    }
+  ],
+  [
+    [
+      "111",
+      "Patrick Kruse"
+    ],
+    {
+      "timeElapsed": "4.128611 h",
+      "leadingFrac": 0.80585683,
+      "time": 167.3,
+      "distance": 473.2,
+      "leadingCoef": 2.68305185,
+      "distanceMade": "113.605000 km",
+      "es": "2016-05-08T21:37:43Z",
+      "leading": 74.3,
+      "total": 744,
+      "distanceFrac": 1,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0.45365009,
+      "leadingArea": "57389779.0000 km^2 s",
+      "arrival": 29.6,
+      "place": "7"
+    }
+  ],
+  [
+    [
+      "132",
+      "James Stinnett"
+    ],
+    {
+      "timeElapsed": "4.158611 h",
+      "leadingFrac": 0.8329718,
+      "time": 161.9,
+      "distance": 473.2,
+      "leadingCoef": 2.6547979,
+      "distanceMade": "113.605000 km",
+      "es": "2016-05-08T21:39:31Z",
+      "leading": 76.8,
+      "total": 738,
+      "distanceFrac": 1,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0.43904182,
+      "leadingArea": "56785434.0000 km^2 s",
+      "arrival": 26,
+      "place": "8"
+    }
+  ],
+  [
+    [
+      "131",
+      "Robin Hamilton"
+    ],
+    {
+      "timeElapsed": "4.173611 h",
+      "leadingFrac": 0.8318872,
+      "time": 159.2,
+      "distance": 473.2,
+      "leadingCoef": 2.65668309,
+      "distanceMade": "113.605000 km",
+      "es": "2016-05-08T21:40:25Z",
+      "leading": 76.7,
+      "total": 732,
+      "distanceFrac": 1,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0.43180871,
+      "leadingArea": "56825758.0000 km^2 s",
+      "arrival": 23,
+      "place": "9"
     }
   ],
   [
@@ -708,17 +212,113 @@
       "John Simon"
     ],
     {
-      "ssElapsed": "4.182778 h",
+      "timeElapsed": "4.182778 h",
+      "leadingFrac": 0.85249458,
       "time": 157.6,
       "distance": 473.2,
+      "leadingCoef": 2.63625239,
       "distanceMade": "113.605000 km",
       "es": "2016-05-08T21:40:58Z",
       "leading": 78.6,
       "total": 730,
       "distanceFrac": 1,
       "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0.42741107,
+      "leadingArea": "56388750.0000 km^2 s",
       "arrival": 20.6,
       "place": "10"
+    }
+  ],
+  [
+    [
+      "119",
+      "Bart Weghorst"
+    ],
+    {
+      "timeElapsed": "4.237222 h",
+      "leadingFrac": 0.82646421,
+      "time": 148.1,
+      "distance": 473.2,
+      "leadingCoef": 2.66198376,
+      "distanceMade": "113.605000 km",
+      "es": "2016-05-08T21:44:14Z",
+      "leading": 76.2,
+      "total": 716,
+      "distanceFrac": 1,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0.40163004,
+      "leadingArea": "56939138.0000 km^2 s",
+      "arrival": 18.5,
+      "place": "11"
+    }
+  ],
+  [
+    [
+      "106",
+      "Fabiano Nahoum"
+    ],
+    {
+      "timeElapsed": "4.259444 h",
+      "leadingFrac": 0.82321041,
+      "time": 144.3,
+      "distance": 473.2,
+      "leadingCoef": 2.66464181,
+      "distanceMade": "113.605000 km",
+      "es": "2016-05-08T21:45:34Z",
+      "leading": 75.9,
+      "total": 710,
+      "distanceFrac": 1,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0.39126609,
+      "leadingArea": "56995993.0000 km^2 s",
+      "arrival": 16.9,
+      "place": "12"
+    }
+  ],
+  [
+    [
+      "123",
+      "JD Guillemette"
+    ],
+    {
+      "timeElapsed": "4.444444 h",
+      "leadingFrac": 0.77006508,
+      "time": 113.6,
+      "distance": 473.2,
+      "leadingCoef": 2.72198703,
+      "distanceMade": "113.605000 km",
+      "es": "2016-05-08T21:56:40Z",
+      "leading": 71,
+      "total": 674,
+      "distanceFrac": 1,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0.30813141,
+      "leadingArea": "58222592.0000 km^2 s",
+      "arrival": 15.7,
+      "place": "13"
+    }
+  ],
+  [
+    [
+      "127",
+      "Gerry Pesavento"
+    ],
+    {
+      "timeElapsed": "4.579167 h",
+      "leadingFrac": 0.73861171,
+      "time": 92.4,
+      "distance": 473.2,
+      "leadingCoef": 2.75889518,
+      "distanceMade": "113.605000 km",
+      "es": "2016-05-08T22:04:45Z",
+      "leading": 68.1,
+      "total": 649,
+      "distanceFrac": 1,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0.25062606,
+      "leadingArea": "59012048.0000 km^2 s",
+      "arrival": 14.8,
+      "place": "14"
     }
   ],
   [
@@ -727,17 +327,44 @@
       "Anna Eppink"
     ],
     {
-      "ssElapsed": "4.626944 h",
+      "timeElapsed": "4.626944 h",
+      "leadingFrac": 0.77114967,
       "time": 85.1,
       "distance": 473.2,
+      "leadingCoef": 2.72051375,
       "distanceMade": "113.605000 km",
       "es": "2016-05-08T22:07:37Z",
       "leading": 71.1,
       "total": 644,
       "distanceFrac": 1,
       "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0.23075989,
+      "leadingArea": "58191079.0000 km^2 s",
       "arrival": 14.1,
       "place": "15"
+    }
+  ],
+  [
+    [
+      "120",
+      "Mike Glennon"
+    ],
+    {
+      "timeElapsed": "4.681944 h",
+      "leadingFrac": 0.79067245,
+      "time": 76.8,
+      "distance": 473.2,
+      "leadingCoef": 2.69863867,
+      "distanceMade": "113.605000 km",
+      "es": "2016-05-08T22:10:55Z",
+      "leading": 72.9,
+      "total": 637,
+      "distanceFrac": 1,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0.20820355,
+      "leadingArea": "57723177.0000 km^2 s",
+      "arrival": 13.6,
+      "place": "16"
     }
   ],
   [
@@ -746,55 +373,251 @@
       "Tom Lanning"
     ],
     {
-      "ssElapsed": "4.832778 h",
+      "timeElapsed": "4.832778 h",
+      "leadingFrac": 0.670282,
       "time": 54.5,
       "distance": 473.2,
+      "leadingCoef": 2.84809487,
       "distanceMade": "113.605000 km",
       "es": "2016-05-08T22:19:58Z",
       "leading": 61.8,
       "total": 603,
       "distanceFrac": 1,
       "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0.1479204,
+      "leadingArea": "60920006.0000 km^2 s",
       "arrival": 13.4,
       "place": "17"
     }
   ],
   [
     [
-      "145",
-      "Roger Irby"
+      "137",
+      "Yoko Isomoto"
     ],
     {
-      "ssElapsed": null,
+      "timeElapsed": null,
+      "leadingFrac": 0.59544469,
       "time": 0,
-      "distance": 318.2,
-      "distanceMade": "75.886000 km",
+      "distance": 436.2,
+      "leadingCoef": 2.9572223,
+      "distanceMade": "97.700000 km",
       "es": null,
-      "leading": 14.1,
-      "total": 332,
-      "distanceFrac": 0.667981162800933,
-      "ss": "2016-05-08T17:50:00Z",
+      "leading": 54.9,
+      "total": 491,
+      "distanceFrac": 0.8599973592711588,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0,
+      "leadingArea": "63254213.0000 km^2 s",
       "arrival": 0,
-      "place": "31"
+      "place": "18"
     }
   ],
   [
     [
-      "146",
-      "Peter Kelley"
+      "107",
+      "Malcolm Brown"
     ],
     {
-      "ssElapsed": null,
+      "timeElapsed": null,
+      "leadingFrac": 0.47613883,
       "time": 0,
-      "distance": 180.5,
-      "distanceMade": "49.001000 km",
+      "distance": 445.8,
+      "leadingCoef": 3.15093774,
+      "distanceMade": "100.436000 km",
       "es": null,
-      "leading": 0,
-      "total": 181,
-      "distanceFrac": 0.43132784648563005,
-      "ss": "2016-05-08T17:50:00Z",
+      "leading": 43.9,
+      "total": 490,
+      "distanceFrac": 0.8840808063025395,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0,
+      "leadingArea": "67397736.0000 km^2 s",
       "arrival": 0,
-      "place": "39"
+      "place": "19"
+    }
+  ],
+  [
+    [
+      "116",
+      "Jeffery Bohl"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0.44360087,
+      "time": 0,
+      "distance": 440.2,
+      "leadingCoef": 3.20788091,
+      "distanceMade": "98.500000 km",
+      "es": null,
+      "leading": 40.9,
+      "total": 481,
+      "distanceFrac": 0.8670393028475859,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0,
+      "leadingArea": "68615735.0000 km^2 s",
+      "arrival": 0,
+      "place": "20"
+    }
+  ],
+  [
+    [
+      "101",
+      "Davis Straub"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0.76138829,
+      "time": 0,
+      "distance": 404.9,
+      "leadingCoef": 2.73262607,
+      "distanceMade": "92.346000 km",
+      "es": null,
+      "leading": 70.2,
+      "total": 475,
+      "distanceFrac": 0.8128691518859205,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0,
+      "leadingArea": "58450158.0000 km^2 s",
+      "arrival": 0,
+      "place": "21"
+    }
+  ],
+  [
+    [
+      "103",
+      "Matt Christensen"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0.30368764,
+      "time": 0,
+      "distance": 441,
+      "leadingCoef": 3.47254257,
+      "distanceMade": "98.710000 km",
+      "es": null,
+      "leading": 28,
+      "total": 469,
+      "distanceFrac": 0.8688878130363982,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0,
+      "leadingArea": "74276779.0000 km^2 s",
+      "arrival": 0,
+      "place": "22"
+    }
+  ],
+  [
+    [
+      "110",
+      "Cory Barnwell"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0.28741866,
+      "time": 0,
+      "distance": 440.7,
+      "leadingCoef": 3.50601148,
+      "distanceMade": "98.623000 km",
+      "es": null,
+      "leading": 26.5,
+      "total": 467,
+      "distanceFrac": 0.8681220016724616,
+      "ss": "2016-05-08T17:50:00Z",
+      "timeFrac": 0,
+      "leadingArea": "74992670.0000 km^2 s",
+      "arrival": 0,
+      "place": "23"
+    }
+  ],
+  [
+    [
+      "108",
+      "Raul Guerra"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0.33947939,
+      "time": 0,
+      "distance": 415.8,
+      "leadingCoef": 3.4036734,
+      "distanceMade": "94.071000 km",
+      "es": null,
+      "leading": 31.3,
+      "total": 447,
+      "distanceFrac": 0.8280533427225915,
+      "ss": "2016-05-08T17:50:00Z",
+      "timeFrac": 0,
+      "leadingArea": "72803686.0000 km^2 s",
+      "arrival": 0,
+      "place": "24"
+    }
+  ],
+  [
+    [
+      "117",
+      "Robert Dallas"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0.44143167,
+      "time": 0,
+      "distance": 358,
+      "leadingCoef": 3.21280317,
+      "distanceMade": "85.515000 km",
+      "es": null,
+      "leading": 40.7,
+      "total": 399,
+      "distanceFrac": 0.7527397561727036,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0,
+      "leadingArea": "68721021.0000 km^2 s",
+      "arrival": 0,
+      "place": "25"
+    }
+  ],
+  [
+    [
+      "102",
+      "Richard lovelace"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0.43058568,
+      "time": 0,
+      "distance": 325.9,
+      "leadingCoef": 3.23174338,
+      "distanceMade": "77.451000 km",
+      "es": null,
+      "leading": 39.7,
+      "total": 366,
+      "distanceFrac": 0.6817569649223187,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0,
+      "leadingArea": "69126147.0000 km^2 s",
+      "arrival": 0,
+      "place": "26"
+    }
+  ],
+  [
+    [
+      "135",
+      "Misael Rosalez"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0.3340564,
+      "time": 0,
+      "distance": 331,
+      "leadingCoef": 3.41273982,
+      "distanceMade": "78.915000 km",
+      "es": null,
+      "leading": 30.8,
+      "total": 362,
+      "distanceFrac": 0.6946437216671801,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0,
+      "leadingArea": "72997614.0000 km^2 s",
+      "arrival": 0,
+      "place": "27"
     }
   ],
   [
@@ -803,17 +626,366 @@
       "Claudia Mejia"
     ],
     {
-      "ssElapsed": null,
+      "timeElapsed": null,
+      "leadingFrac": 0.31887202,
       "time": 0,
       "distance": 325.3,
+      "leadingCoef": 3.44312654,
       "distanceMade": "77.289000 km",
       "es": null,
       "leading": 29.4,
       "total": 355,
       "distanceFrac": 0.6803309713480921,
       "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0,
+      "leadingArea": "73647578.0000 km^2 s",
       "arrival": 0,
       "place": "28"
+    }
+  ],
+  [
+    [
+      "124",
+      "Patrick Pannese"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0.32537961,
+      "time": 0,
+      "distance": 320.3,
+      "leadingCoef": 3.430175,
+      "distanceMade": "76.258000 km",
+      "es": null,
+      "leading": 30,
+      "total": 350,
+      "distanceFrac": 0.6712556665639716,
+      "ss": "2016-05-08T17:50:00Z",
+      "timeFrac": 0,
+      "leadingArea": "73370548.0000 km^2 s",
+      "arrival": 0,
+      "place": "29"
+    }
+  ],
+  [
+    [
+      "126",
+      "Jeff Kannard"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0.46746204,
+      "time": 0,
+      "distance": 292.6,
+      "leadingCoef": 3.16661089,
+      "distanceMade": "71.778000 km",
+      "es": null,
+      "leading": 43.1,
+      "total": 336,
+      "distanceFrac": 0.63182078253598,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0,
+      "leadingArea": "67732980.0000 km^2 s",
+      "arrival": 0,
+      "place": "30"
+    }
+  ],
+  [
+    [
+      "145",
+      "Roger Irby"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0.15292842,
+      "time": 0,
+      "distance": 318.2,
+      "leadingCoef": 3.78940342,
+      "distanceMade": "75.886000 km",
+      "es": null,
+      "leading": 14.1,
+      "total": 332,
+      "distanceFrac": 0.667981162800933,
+      "ss": "2016-05-08T17:50:00Z",
+      "timeFrac": 0,
+      "leadingArea": "81054350.0000 km^2 s",
+      "arrival": 0,
+      "place": "31"
+    }
+  ],
+  [
+    [
+      "115",
+      "Andrew Hollidge"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0.23427332,
+      "time": 0,
+      "distance": 291.5,
+      "leadingCoef": 3.61503167,
+      "distanceMade": "71.593000 km",
+      "es": null,
+      "leading": 21.6,
+      "total": 313,
+      "distanceFrac": 0.6301923330839312,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0,
+      "leadingArea": "77324584.0000 km^2 s",
+      "arrival": 0,
+      "place": "32"
+    }
+  ],
+  [
+    [
+      "133",
+      "Olav Olsen"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0.15075922,
+      "time": 0,
+      "distance": 217.2,
+      "leadingCoef": 3.79589002,
+      "distanceMade": "57.791000 km",
+      "es": null,
+      "leading": 13.9,
+      "total": 231,
+      "distanceFrac": 0.5087012015316228,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0,
+      "leadingArea": "81193097.0000 km^2 s",
+      "arrival": 0,
+      "place": "33"
+    }
+  ],
+  [
+    [
+      "112",
+      "Sergey Kataev"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0,
+      "time": 0,
+      "distance": 208.3,
+      "leadingCoef": 4.54458471,
+      "distanceMade": "54.573000 km",
+      "es": null,
+      "leading": 0,
+      "total": 208,
+      "distanceFrac": 0.4803749834954447,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0,
+      "leadingArea": "97207481.0000 km^2 s",
+      "arrival": 0,
+      "place": "34"
+    }
+  ],
+  [
+    [
+      "134",
+      "Kinsley Sykes"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0,
+      "time": 0,
+      "distance": 206.2,
+      "leadingCoef": 5.00290103,
+      "distanceMade": "53.973000 km",
+      "es": null,
+      "leading": 0,
+      "total": 206,
+      "distanceFrac": 0.4750935258131244,
+      "ss": "2016-05-08T17:50:00Z",
+      "timeFrac": 0,
+      "leadingArea": "107010747.0000 km^2 s",
+      "arrival": 0,
+      "place": "35"
+    }
+  ],
+  [
+    [
+      "109",
+      "Michael Williams"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0,
+      "time": 0,
+      "distance": 201.2,
+      "leadingCoef": 4.54875591,
+      "distanceMade": "52.770000 km",
+      "es": null,
+      "leading": 0,
+      "total": 201,
+      "distanceFrac": 0.4645042031600722,
+      "ss": "2016-05-08T17:50:00Z",
+      "timeFrac": 0,
+      "leadingArea": "97296702.0000 km^2 s",
+      "arrival": 0,
+      "place": "36"
+    }
+  ],
+  [
+    [
+      "141",
+      "Patrick Halfhill"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0,
+      "time": 0,
+      "distance": 194,
+      "leadingCoef": 5.31710317,
+      "distanceMade": "51.295000 km",
+      "es": null,
+      "leading": 0,
+      "total": 194,
+      "distanceFrac": 0.45152061969103474,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0,
+      "leadingArea": "113731449.0000 km^2 s",
+      "arrival": 0,
+      "place": "37"
+    }
+  ],
+  [
+    [
+      "140",
+      "Bill Vickery"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0,
+      "time": 0,
+      "distance": 186.2,
+      "leadingCoef": 4.55835799,
+      "distanceMade": "49.907000 km",
+      "es": null,
+      "leading": 0,
+      "total": 186,
+      "distanceFrac": 0.43930284758593374,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0,
+      "leadingArea": "97502088.0000 km^2 s",
+      "arrival": 0,
+      "place": "38"
+    }
+  ],
+  [
+    [
+      "146",
+      "Peter Kelley"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0,
+      "time": 0,
+      "distance": 180.5,
+      "leadingCoef": 4.99137695,
+      "distanceMade": "49.001000 km",
+      "es": null,
+      "leading": 0,
+      "total": 181,
+      "distanceFrac": 0.43132784648563005,
+      "ss": "2016-05-08T17:50:00Z",
+      "timeFrac": 0,
+      "leadingArea": "106764250.0000 km^2 s",
+      "arrival": 0,
+      "place": "39"
+    }
+  ],
+  [
+    [
+      "129",
+      "Mike Jefferson"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0,
+      "time": 0,
+      "distance": 113.5,
+      "leadingCoef": 5.75039022,
+      "distanceMade": "38.120000 km",
+      "es": null,
+      "leading": 0,
+      "total": 114,
+      "distanceFrac": 0.335548611416751,
+      "ss": "2016-05-08T17:50:00Z",
+      "timeFrac": 0,
+      "leadingArea": "122999346.0000 km^2 s",
+      "arrival": 0,
+      "place": "40"
+    }
+  ],
+  [
+    [
+      "114",
+      "Mick Howard"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0,
+      "time": 0,
+      "distance": 66.7,
+      "leadingCoef": 7.49030512,
+      "distanceMade": "21.318000 km",
+      "es": null,
+      "leading": 0,
+      "total": 67,
+      "distanceFrac": 0.18765019145284098,
+      "ss": "2016-05-08T17:30:00Z",
+      "timeFrac": 0,
+      "leadingArea": "160215671.0000 km^2 s",
+      "arrival": 0,
+      "place": "41"
+    }
+  ],
+  [
+    [
+      "104",
+      "Christian Pollet"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0,
+      "time": 0,
+      "distance": 64.9,
+      "leadingCoef": 7.78232444,
+      "distanceMade": "20.686000 km",
+      "es": null,
+      "leading": 0,
+      "total": 65,
+      "distanceFrac": 0.18208705602746358,
+      "ss": "2016-05-08T17:50:00Z",
+      "timeFrac": 0,
+      "leadingArea": "166461889.0000 km^2 s",
+      "arrival": 0,
+      "place": "42"
+    }
+  ],
+  [
+    [
+      "118",
+      "Ingo Heilmann"
+    ],
+    {
+      "timeElapsed": null,
+      "leadingFrac": 0,
+      "time": 0,
+      "distance": 14,
+      "leadingCoef": 0,
+      "distanceMade": "5.000000 km",
+      "es": null,
+      "leading": 0,
+      "total": 14,
+      "distanceFrac": 0.04401214735266934,
+      "ss": null,
+      "timeFrac": 0,
+      "leadingArea": "0.0000 km^2 s",
+      "arrival": 0,
+      "place": "43"
     }
   ]
 ]

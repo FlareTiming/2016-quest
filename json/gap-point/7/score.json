@@ -6,26 +6,26 @@
     ],
     {
       "breakdown": {
-        "time": 401.9,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 31.5,
-        "effort": 189.287,
+        "time": 401.8,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 0,
+        "effort": 189.276,
         "arrival": 71.8
       },
       "stoppedAlt": null,
       "penaltyReason": "",
       "velocity": {
         "gs": "2016-05-13T18:20:00Z",
-        "ssVelocity": "24.37 km / h",
-        "ssElapsed": "1.545833 h",
-        "gsElapsed": "1.613056 h",
-        "es": "2016-05-13T19:56:47Z",
-        "ss": "2016-05-13T18:24:02Z",
+        "ssVelocity": "24.42 km / h",
+        "ssElapsed": "1.543084 h",
+        "gsElapsed": "1.612808 h",
+        "es": "2016-05-13T19:56:46.10874381518Z",
+        "ss": "2016-05-13T18:24:11.00800621642Z",
         "ssDistance": "37.674 km",
         "gsVelocity": "23.40 km / h"
       },
-      "total": 884,
+      "total": 852,
       "landedDistance": "69.861 km",
       "penalties": [],
       "place": "1",
@@ -39,26 +39,26 @@
     ],
     {
       "breakdown": {
-        "time": 330.9,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 28.5,
-        "effort": 189.287,
+        "time": 336.3,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 0,
+        "effort": 189.276,
         "arrival": 59.1
       },
       "stoppedAlt": null,
       "penaltyReason": "",
       "velocity": {
         "gs": "2016-05-13T18:20:00Z",
-        "ssVelocity": "23.22 km / h",
-        "ssElapsed": "1.622778 h",
-        "gsElapsed": "1.696667 h",
-        "es": "2016-05-13T20:01:48Z",
-        "ss": "2016-05-13T18:24:26Z",
+        "ssVelocity": "23.24 km / h",
+        "ssElapsed": "1.620806 h",
+        "gsElapsed": "1.696522 h",
+        "es": "2016-05-13T20:01:47.480030428431Z",
+        "ss": "2016-05-13T18:24:32.578226740016Z",
         "ssDistance": "37.674 km",
         "gsVelocity": "22.20 km / h"
       },
-      "total": 797,
+      "total": 774,
       "landedDistance": "69.861 km",
       "penalties": [],
       "place": "2",
@@ -72,11 +72,11 @@
     ],
     {
       "breakdown": {
-        "time": 213.3,
-        "reach": 189.287,
-        "distance": 378.573,
+        "time": 227.7,
+        "reach": 189.276,
+        "distance": 378.553,
         "leading": 100.5,
-        "effort": 189.287,
+        "effort": 189.276,
         "arrival": 65.2
       },
       "stoppedAlt": null,
@@ -84,14 +84,14 @@
       "velocity": {
         "gs": "2016-05-13T18:00:00Z",
         "ssVelocity": "18.89 km / h",
-        "ssElapsed": "1.994722 h",
-        "gsElapsed": "1.975278 h",
-        "es": "2016-05-13T19:58:31Z",
-        "ss": "2016-05-13T17:58:50Z",
+        "ssElapsed": "1.994133 h",
+        "gsElapsed": "1.975015 h",
+        "es": "2016-05-13T19:58:30.05578214865Z",
+        "ss": "2016-05-13T17:58:51.17831132872Z",
         "ssDistance": "37.674 km",
         "gsVelocity": "19.10 km / h"
       },
-      "total": 758,
+      "total": 772,
       "landedDistance": "69.861 km",
       "penalties": [],
       "place": "3",
@@ -105,26 +105,26 @@
     ],
     {
       "breakdown": {
-        "time": 266.1,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 16.1,
-        "effort": 189.287,
+        "time": 276.4,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 0,
+        "effort": 189.276,
         "arrival": 39.8
       },
       "stoppedAlt": null,
       "penaltyReason": "",
       "velocity": {
         "gs": "2016-05-13T18:20:00Z",
-        "ssVelocity": "20.93 km / h",
-        "ssElapsed": "1.800000 h",
-        "gsElapsed": "1.834444 h",
-        "es": "2016-05-13T20:10:04Z",
-        "ss": "2016-05-13T18:22:04Z",
+        "ssVelocity": "20.95 km / h",
+        "ssElapsed": "1.798675 h",
+        "gsElapsed": "1.834208 h",
+        "es": "2016-05-13T20:10:03.149387318459Z",
+        "ss": "2016-05-13T18:22:07.92088985849Z",
         "ssDistance": "37.674 km",
         "gsVelocity": "20.50 km / h"
       },
-      "total": 700,
+      "total": 695,
       "landedDistance": "69.861 km",
       "penalties": [],
       "place": "4",
@@ -138,24 +138,24 @@
     ],
     {
       "breakdown": {
-        "time": 190.5,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 64.4,
-        "effort": 189.287,
+        "time": 207.4,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 47.8,
+        "effort": 189.276,
         "arrival": 53.6
       },
       "stoppedAlt": null,
       "penaltyReason": "",
       "velocity": {
         "gs": "2016-05-13T18:00:00Z",
-        "ssVelocity": "18.50 km / h",
-        "ssElapsed": "2.036111 h",
-        "gsElapsed": "2.042778 h",
-        "es": "2016-05-13T20:02:34Z",
-        "ss": "2016-05-13T18:00:24Z",
+        "ssVelocity": "18.54 km / h",
+        "ssElapsed": "2.032453 h",
+        "gsElapsed": "2.040147 h",
+        "es": "2016-05-13T20:02:24.52791846181Z",
+        "ss": "2016-05-13T18:00:27.69849106966Z",
         "ssDistance": "37.674 km",
-        "gsVelocity": "18.40 km / h"
+        "gsVelocity": "18.50 km / h"
       },
       "total": 687,
       "landedDistance": "69.861 km",
@@ -171,26 +171,26 @@
     ],
     {
       "breakdown": {
-        "time": 165.2,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 69.8,
-        "effort": 189.287,
+        "time": 183.3,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 55.7,
+        "effort": 189.276,
         "arrival": 48.5
       },
       "stoppedAlt": null,
       "penaltyReason": "",
       "velocity": {
         "gs": "2016-05-13T18:00:00Z",
-        "ssVelocity": "17.78 km / h",
-        "ssElapsed": "2.118611 h",
-        "gsElapsed": "2.122500 h",
-        "es": "2016-05-13T20:07:21Z",
-        "ss": "2016-05-13T18:00:14Z",
+        "ssVelocity": "17.79 km / h",
+        "ssElapsed": "2.117944 h",
+        "gsElapsed": "2.122240 h",
+        "es": "2016-05-13T20:07:20.065404104798Z",
+        "ss": "2016-05-13T18:00:15.46673924766Z",
         "ssDistance": "37.674 km",
         "gsVelocity": "17.80 km / h"
       },
-      "total": 662,
+      "total": 666,
       "landedDistance": "69.861 km",
       "penalties": [],
       "place": "6",
@@ -204,26 +204,26 @@
     ],
     {
       "breakdown": {
-        "time": 211.2,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 20,
-        "effort": 189.287,
-        "arrival": 32.7
+        "time": 225.7,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 0,
+        "effort": 189.276,
+        "arrival": 32.6
       },
       "stoppedAlt": null,
       "penaltyReason": "",
       "velocity": {
         "gs": "2016-05-13T18:20:00Z",
-        "ssVelocity": "19.74 km / h",
-        "ssElapsed": "1.908333 h",
-        "gsElapsed": "1.981389 h",
-        "es": "2016-05-13T20:18:53Z",
-        "ss": "2016-05-13T18:24:23Z",
+        "ssVelocity": "19.75 km / h",
+        "ssElapsed": "1.907839 h",
+        "gsElapsed": "1.981237 h",
+        "es": "2016-05-13T20:18:52.453675216065Z",
+        "ss": "2016-05-13T18:24:24.232698902314Z",
         "ssDistance": "37.674 km",
         "gsVelocity": "19.00 km / h"
       },
-      "total": 642,
+      "total": 637,
       "landedDistance": "69.861 km",
       "penalties": [],
       "place": "7",
@@ -237,11 +237,11 @@
     ],
     {
       "breakdown": {
-        "time": 154.8,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 49,
-        "effort": 189.287,
+        "time": 173.6,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 25.3,
+        "effort": 189.276,
         "arrival": 43.9
       },
       "stoppedAlt": null,
@@ -249,14 +249,14 @@
       "velocity": {
         "gs": "2016-05-13T18:00:00Z",
         "ssVelocity": "17.84 km / h",
-        "ssElapsed": "2.111944 h",
-        "gsElapsed": "2.156389 h",
-        "es": "2016-05-13T20:09:23Z",
-        "ss": "2016-05-13T18:02:40Z",
+        "ssElapsed": "2.111711 h",
+        "gsElapsed": "2.156302 h",
+        "es": "2016-05-13T20:09:22.6858999735Z",
+        "ss": "2016-05-13T18:02:40.526293747994Z",
         "ssDistance": "37.674 km",
         "gsVelocity": "17.50 km / h"
       },
-      "total": 626,
+      "total": 621,
       "landedDistance": "69.861 km",
       "penalties": [],
       "place": "8",
@@ -270,26 +270,26 @@
     ],
     {
       "breakdown": {
-        "time": 151.1,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 52.6,
-        "effort": 189.287,
+        "time": 170.2,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 30.5,
+        "effort": 189.276,
         "arrival": 36
       },
       "stoppedAlt": null,
       "penaltyReason": "",
       "velocity": {
         "gs": "2016-05-13T18:00:00Z",
-        "ssVelocity": "17.46 km / h",
-        "ssElapsed": "2.157222 h",
-        "gsElapsed": "2.168611 h",
-        "es": "2016-05-13T20:10:07Z",
-        "ss": "2016-05-13T18:00:41Z",
+        "ssVelocity": "17.48 km / h",
+        "ssElapsed": "2.155355 h",
+        "gsElapsed": "2.168441 h",
+        "es": "2016-05-13T20:10:06.38691602914Z",
+        "ss": "2016-05-13T18:00:47.11001297186Z",
         "ssDistance": "37.674 km",
         "gsVelocity": "17.40 km / h"
       },
-      "total": 618,
+      "total": 615,
       "landedDistance": "69.861 km",
       "penalties": [],
       "place": "9",
@@ -303,11 +303,11 @@
     ],
     {
       "breakdown": {
-        "time": 99,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 64.2,
-        "effort": 189.287,
+        "time": 122.1,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 47.6,
+        "effort": 189.276,
         "arrival": 27
       },
       "stoppedAlt": null,
@@ -315,14 +315,14 @@
       "velocity": {
         "gs": "2016-05-13T18:00:00Z",
         "ssVelocity": "16.07 km / h",
-        "ssElapsed": "2.344167 h",
-        "gsElapsed": "2.350556 h",
-        "es": "2016-05-13T20:21:02Z",
-        "ss": "2016-05-13T18:00:23Z",
+        "ssElapsed": "2.343688 h",
+        "gsElapsed": "2.350446 h",
+        "es": "2016-05-13T20:21:01.605767918117Z",
+        "ss": "2016-05-13T18:00:24.328173103667Z",
         "ssDistance": "37.674 km",
         "gsVelocity": "16.00 km / h"
       },
-      "total": 569,
+      "total": 575,
       "landedDistance": "69.861 km",
       "penalties": [],
       "place": "10",
@@ -336,11 +336,11 @@
     ],
     {
       "breakdown": {
-        "time": 87.2,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 65,
-        "effort": 189.287,
+        "time": 111.3,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 48.6,
+        "effort": 189.276,
         "arrival": 22.7
       },
       "stoppedAlt": null,
@@ -348,50 +348,17 @@
       "velocity": {
         "gs": "2016-05-13T18:00:00Z",
         "ssVelocity": "15.78 km / h",
-        "ssElapsed": "2.387778 h",
-        "gsElapsed": "2.393889 h",
-        "es": "2016-05-13T20:23:38Z",
-        "ss": "2016-05-13T18:00:22Z",
+        "ssElapsed": "2.387416 h",
+        "gsElapsed": "2.393650 h",
+        "es": "2016-05-13T20:23:37.139094821948Z",
+        "ss": "2016-05-13T18:00:22.442336744713Z",
         "ssDistance": "37.674 km",
         "gsVelocity": "15.70 km / h"
       },
-      "total": 553,
+      "total": 561,
       "landedDistance": "69.861 km",
       "penalties": [],
       "place": "11",
-      "reachDistance": "69.861 km"
-    }
-  ],
-  [
-    [
-      "124",
-      "Patrick Pannese"
-    ],
-    {
-      "breakdown": {
-        "time": 98.3,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 46.1,
-        "effort": 189.287,
-        "arrival": 24.7
-      },
-      "stoppedAlt": null,
-      "penaltyReason": "",
-      "velocity": {
-        "gs": "2016-05-13T18:00:00Z",
-        "ssVelocity": "15.87 km / h",
-        "ssElapsed": "2.374444 h",
-        "gsElapsed": "2.352778 h",
-        "es": "2016-05-13T20:21:10Z",
-        "ss": "2016-05-13T17:58:42Z",
-        "ssDistance": "37.674 km",
-        "gsVelocity": "16.00 km / h"
-      },
-      "total": 548,
-      "landedDistance": "69.861 km",
-      "penalties": [],
-      "place": "12",
       "reachDistance": "69.861 km"
     }
   ],
@@ -402,62 +369,62 @@
     ],
     {
       "breakdown": {
-        "time": 130.4,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 12.7,
-        "effort": 189.287,
+        "time": 151.2,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 0,
+        "effort": 189.276,
         "arrival": 19.5
       },
       "stoppedAlt": null,
       "penaltyReason": "",
       "velocity": {
         "gs": "2016-05-13T18:20:00Z",
-        "ssVelocity": "17.41 km / h",
-        "ssElapsed": "2.164444 h",
-        "gsElapsed": "2.238611 h",
-        "es": "2016-05-13T20:34:19Z",
-        "ss": "2016-05-13T18:24:27Z",
+        "ssVelocity": "17.42 km / h",
+        "ssElapsed": "2.162562 h",
+        "gsElapsed": "2.238548 h",
+        "es": "2016-05-13T20:34:18.77271423092Z",
+        "ss": "2016-05-13T18:24:33.54929373596Z",
         "ssDistance": "37.674 km",
         "gsVelocity": "16.80 km / h"
       },
-      "total": 541,
+      "total": 549,
       "landedDistance": "69.861 km",
       "penalties": [],
-      "place": "13",
+      "place": "12",
       "reachDistance": "69.861 km"
     }
   ],
   [
     [
-      "102",
-      "Richard lovelace"
+      "124",
+      "Patrick Pannese"
     ],
     {
       "breakdown": {
-        "time": 100.2,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 6.7,
-        "effort": 189.287,
-        "arrival": 18.3
+        "time": 121.5,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 21.1,
+        "effort": 189.276,
+        "arrival": 24.7
       },
       "stoppedAlt": null,
       "penaltyReason": "",
       "velocity": {
-        "gs": "2016-05-13T18:20:00Z",
-        "ssVelocity": "16.10 km / h",
-        "ssElapsed": "2.339722 h",
-        "gsElapsed": "2.345833 h",
-        "es": "2016-05-13T20:40:45Z",
-        "ss": "2016-05-13T18:20:22Z",
+        "gs": "2016-05-13T18:00:00Z",
+        "ssVelocity": "15.87 km / h",
+        "ssElapsed": "2.374379 h",
+        "gsElapsed": "2.352737 h",
+        "es": "2016-05-13T20:21:09.854492471591Z",
+        "ss": "2016-05-13T17:58:42.088683879674Z",
         "ssDistance": "37.674 km",
-        "gsVelocity": "16.10 km / h"
+        "gsVelocity": "16.00 km / h"
       },
-      "total": 504,
+      "total": 546,
       "landedDistance": "69.861 km",
       "penalties": [],
-      "place": "14",
+      "place": "13",
       "reachDistance": "69.861 km"
     }
   ],
@@ -468,11 +435,11 @@
     ],
     {
       "breakdown": {
-        "time": 106.7,
-        "reach": 189.287,
-        "distance": 378.573,
+        "time": 129.2,
+        "reach": 189.276,
+        "distance": 378.553,
         "leading": 0,
-        "effort": 189.287,
+        "effort": 189.276,
         "arrival": 29.7
       },
       "stoppedAlt": null,
@@ -487,15 +454,48 @@
         "ssDistance": "37.674 km",
         "gsVelocity": "16.20 km / h"
       },
-      "total": 499,
+      "total": 521,
       "landedDistance": "69.862 km",
       "penalties": [
         {
           "penalty-points": 16
         }
       ],
-      "place": "15",
+      "place": "14",
       "reachDistance": "69.862 km"
+    }
+  ],
+  [
+    [
+      "102",
+      "Richard lovelace"
+    ],
+    {
+      "breakdown": {
+        "time": 123.3,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 0,
+        "effort": 189.276,
+        "arrival": 18.3
+      },
+      "stoppedAlt": null,
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2016-05-13T18:20:00Z",
+        "ssVelocity": "16.12 km / h",
+        "ssElapsed": "2.337073 h",
+        "gsElapsed": "2.345782 h",
+        "es": "2016-05-13T20:40:44.816191618095Z",
+        "ss": "2016-05-13T18:20:31.35172699088Z",
+        "ssDistance": "37.674 km",
+        "gsVelocity": "16.10 km / h"
+      },
+      "total": 520,
+      "landedDistance": "69.861 km",
+      "penalties": [],
+      "place": "15",
+      "reachDistance": "69.861 km"
     }
   ],
   [
@@ -505,11 +505,11 @@
     ],
     {
       "breakdown": {
-        "time": 75.4,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 15.4,
-        "effort": 189.287,
+        "time": 100.4,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 0,
+        "effort": 189.276,
         "arrival": 16.5
       },
       "stoppedAlt": null,
@@ -517,14 +517,14 @@
       "velocity": {
         "gs": "2016-05-13T18:20:00Z",
         "ssVelocity": "15.94 km / h",
-        "ssElapsed": "2.364167 h",
-        "gsElapsed": "2.438056 h",
-        "es": "2016-05-13T20:46:17Z",
-        "ss": "2016-05-13T18:24:26Z",
+        "ssElapsed": "2.362818 h",
+        "gsElapsed": "2.437804 h",
+        "es": "2016-05-13T20:46:16.094200551745Z",
+        "ss": "2016-05-13T18:24:29.94948873851Z",
         "ssDistance": "37.674 km",
         "gsVelocity": "15.40 km / h"
       },
-      "total": 486,
+      "total": 495,
       "landedDistance": "69.861 km",
       "penalties": [],
       "place": "16",
@@ -538,26 +538,26 @@
     ],
     {
       "breakdown": {
-        "time": 49.2,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 35.4,
-        "effort": 189.287,
+        "time": 76.2,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 5.4,
+        "effort": 189.276,
         "arrival": 21
       },
       "stoppedAlt": null,
       "penaltyReason": "",
       "velocity": {
         "gs": "2016-05-13T18:00:00Z",
-        "ssVelocity": "14.91 km / h",
-        "ssElapsed": "2.526667 h",
-        "gsElapsed": "2.539444 h",
-        "es": "2016-05-13T20:32:22Z",
-        "ss": "2016-05-13T18:00:46Z",
+        "ssVelocity": "14.92 km / h",
+        "ssElapsed": "2.525149 h",
+        "gsElapsed": "2.539161 h",
+        "es": "2016-05-13T20:32:20.977916208236Z",
+        "ss": "2016-05-13T18:00:50.44127902775Z",
         "ssDistance": "37.674 km",
         "gsVelocity": "14.80 km / h"
       },
-      "total": 484,
+      "total": 481,
       "landedDistance": "69.861 km",
       "penalties": [],
       "place": "17",
@@ -571,11 +571,11 @@
     ],
     {
       "breakdown": {
-        "time": 44.9,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 6.1,
-        "effort": 189.287,
+        "time": 72.3,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 0,
+        "effort": 189.276,
         "arrival": 15.8
       },
       "stoppedAlt": null,
@@ -583,14 +583,14 @@
       "velocity": {
         "gs": "2016-05-13T18:20:00Z",
         "ssVelocity": "15.20 km / h",
-        "ssElapsed": "2.479167 h",
-        "gsElapsed": "2.556389 h",
-        "es": "2016-05-13T20:53:23Z",
-        "ss": "2016-05-13T18:24:38Z",
+        "ssElapsed": "2.478563 h",
+        "gsElapsed": "2.555997 h",
+        "es": "2016-05-13T20:53:21.5877894179Z",
+        "ss": "2016-05-13T18:24:38.759638084616Z",
         "ssDistance": "37.674 km",
         "gsVelocity": "14.70 km / h"
       },
-      "total": 445,
+      "total": 467,
       "landedDistance": "69.861 km",
       "penalties": [],
       "place": "18",
@@ -599,31 +599,31 @@
   ],
   [
     [
-      "133",
-      "Olav Olsen"
+      "114",
+      "Mick Howard"
     ],
     {
       "breakdown": {
-        "time": 0,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 34.5,
-        "effort": 189.287,
-        "arrival": 14.5
+        "time": 49,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 0,
+        "effort": 189.276,
+        "arrival": 15
       },
       "stoppedAlt": null,
       "penaltyReason": "",
       "velocity": {
-        "gs": "2016-05-13T18:00:00Z",
-        "ssVelocity": "10.85 km / h",
-        "ssElapsed": "3.471111 h",
-        "gsElapsed": "3.448889 h",
-        "es": "2016-05-13T21:26:56Z",
-        "ss": "2016-05-13T17:58:40Z",
+        "gs": "2016-05-13T18:20:00Z",
+        "ssVelocity": "14.36 km / h",
+        "ssElapsed": "2.623837 h",
+        "gsElapsed": "2.657526 h",
+        "es": "2016-05-13T20:59:27.094874446298Z",
+        "ss": "2016-05-13T18:22:01.280243451684Z",
         "ssDistance": "37.674 km",
-        "gsVelocity": "10.90 km / h"
+        "gsVelocity": "14.20 km / h"
       },
-      "total": 428,
+      "total": 443,
       "landedDistance": "69.861 km",
       "penalties": [],
       "place": "19",
@@ -637,11 +637,11 @@
     ],
     {
       "breakdown": {
-        "time": 0,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 24.6,
-        "effort": 189.287,
+        "time": 26.4,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 0,
+        "effort": 189.276,
         "arrival": 17.3
       },
       "stoppedAlt": null,
@@ -649,14 +649,14 @@
       "velocity": {
         "gs": "2016-05-13T18:00:00Z",
         "ssVelocity": "14.07 km / h",
-        "ssElapsed": "2.677500 h",
-        "gsElapsed": "2.760000 h",
-        "es": "2016-05-13T20:45:36Z",
-        "ss": "2016-05-13T18:04:57Z",
+        "ssElapsed": "2.677062 h",
+        "gsElapsed": "2.759827 h",
+        "es": "2016-05-13T20:45:35.376188589224Z",
+        "ss": "2016-05-13T18:04:57.952378670747Z",
         "ssDistance": "37.674 km",
         "gsVelocity": "13.70 km / h"
       },
-      "total": 420,
+      "total": 422,
       "landedDistance": "69.861 km",
       "penalties": [],
       "place": "20",
@@ -665,31 +665,31 @@
   ],
   [
     [
-      "114",
-      "Mick Howard"
+      "133",
+      "Olav Olsen"
     ],
     {
       "breakdown": {
-        "time": 19.8,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 5.4,
-        "effort": 189.287,
-        "arrival": 15
+        "time": 0,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 4.1,
+        "effort": 189.276,
+        "arrival": 14.5
       },
       "stoppedAlt": null,
       "penaltyReason": "",
       "velocity": {
-        "gs": "2016-05-13T18:20:00Z",
-        "ssVelocity": "14.36 km / h",
-        "ssElapsed": "2.624444 h",
-        "gsElapsed": "2.657778 h",
-        "es": "2016-05-13T20:59:28Z",
-        "ss": "2016-05-13T18:22:00Z",
+        "gs": "2016-05-13T18:00:00Z",
+        "ssVelocity": "10.85 km / h",
+        "ssElapsed": "3.470858 h",
+        "gsElapsed": "3.448690 h",
+        "es": "2016-05-13T21:26:55.283321296754Z",
+        "ss": "2016-05-13T17:58:40.194058511215Z",
         "ssDistance": "37.674 km",
-        "gsVelocity": "14.20 km / h"
+        "gsVelocity": "10.90 km / h"
       },
-      "total": 419,
+      "total": 397,
       "landedDistance": "69.861 km",
       "penalties": [],
       "place": "21",
@@ -704,10 +704,10 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 11,
-        "effort": 189.287,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 0,
+        "effort": 189.276,
         "arrival": 15.3
       },
       "stoppedAlt": null,
@@ -715,14 +715,14 @@
       "velocity": {
         "gs": "2016-05-13T18:00:00Z",
         "ssVelocity": "13.59 km / h",
-        "ssElapsed": "2.771944 h",
-        "gsElapsed": "2.971667 h",
-        "es": "2016-05-13T20:58:18Z",
-        "ss": "2016-05-13T18:11:59Z",
+        "ssElapsed": "2.771209 h",
+        "gsElapsed": "2.971389 h",
+        "es": "2016-05-13T20:58:17.00211866458Z",
+        "ss": "2016-05-13T18:12:00.65147548189Z",
         "ssDistance": "37.674 km",
         "gsVelocity": "12.70 km / h"
       },
-      "total": 405,
+      "total": 394,
       "landedDistance": "69.861 km",
       "penalties": [],
       "place": "22",
@@ -737,10 +737,10 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 189.287,
-        "distance": 378.573,
-        "leading": 3.1,
-        "effort": 189.287,
+        "reach": 189.276,
+        "distance": 378.553,
+        "leading": 0,
+        "effort": 189.276,
         "arrival": 14.7
       },
       "stoppedAlt": null,
@@ -748,14 +748,14 @@
       "velocity": {
         "gs": "2016-05-13T18:00:00Z",
         "ssVelocity": "12.06 km / h",
-        "ssElapsed": "3.123611 h",
-        "gsElapsed": "3.174722 h",
-        "es": "2016-05-13T21:10:29Z",
-        "ss": "2016-05-13T18:03:04Z",
+        "ssElapsed": "3.123061 h",
+        "gsElapsed": "3.174681 h",
+        "es": "2016-05-13T21:10:28.852394742125Z",
+        "ss": "2016-05-13T18:03:05.83140292813Z",
         "ssDistance": "37.674 km",
         "gsVelocity": "11.90 km / h"
       },
-      "total": 396,
+      "total": 393,
       "landedDistance": "69.861 km",
       "penalties": [],
       "place": "23",
@@ -770,10 +770,10 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 142.258,
-        "distance": 324.534,
-        "leading": 35.1,
-        "effort": 182.276,
+        "reach": 142.25,
+        "distance": 324.516,
+        "leading": 5,
+        "effort": 182.266,
         "arrival": 0
       },
       "stoppedAlt": "22.000 m",
@@ -784,48 +784,15 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-13T18:00:59Z",
+        "ss": "2016-05-13T18:00:59.556064620325Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 360,
+      "total": 330,
       "landedDistance": "52.238 km",
       "penalties": [],
       "place": "24",
       "reachDistance": "52.504 km"
-    }
-  ],
-  [
-    [
-      "139",
-      "Tullio Gervasoni"
-    ],
-    {
-      "breakdown": {
-        "time": 0,
-        "reach": 140.738,
-        "distance": 301.982,
-        "leading": 23.5,
-        "effort": 161.244,
-        "arrival": 0
-      },
-      "stoppedAlt": "38.000 m",
-      "penaltyReason": "",
-      "velocity": {
-        "gs": "2016-05-13T18:00:00Z",
-        "ssVelocity": null,
-        "ssElapsed": null,
-        "gsElapsed": null,
-        "es": null,
-        "ss": "2016-05-13T18:00:12Z",
-        "ssDistance": null,
-        "gsVelocity": null
-      },
-      "total": 326,
-      "landedDistance": "50.131 km",
-      "penalties": [],
-      "place": "25",
-      "reachDistance": "51.943 km"
     }
   ],
   [
@@ -836,10 +803,10 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 138.657,
-        "distance": 313.923,
+        "reach": 138.65,
+        "distance": 313.906,
         "leading": 0,
-        "effort": 175.265,
+        "effort": 175.256,
         "arrival": 0
       },
       "stoppedAlt": "68.000 m",
@@ -850,15 +817,48 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-13T18:03:12Z",
+        "ss": "2016-05-13T18:03:12.704071321689Z",
         "ssDistance": null,
         "gsVelocity": null
       },
       "total": 314,
       "landedDistance": "50.822 km",
       "penalties": [],
-      "place": "26",
+      "place": "25",
       "reachDistance": "51.175 km"
+    }
+  ],
+  [
+    [
+      "139",
+      "Tullio Gervasoni"
+    ],
+    {
+      "breakdown": {
+        "time": 0,
+        "reach": 140.73,
+        "distance": 301.966,
+        "leading": 0,
+        "effort": 161.235,
+        "arrival": 0
+      },
+      "stoppedAlt": "38.000 m",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2016-05-13T18:00:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2016-05-13T18:00:14.8086925416Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 302,
+      "landedDistance": "50.131 km",
+      "penalties": [],
+      "place": "26",
+      "reachDistance": "51.943 km"
     }
   ],
   [
@@ -869,10 +869,10 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 111.598,
-        "distance": 251.81,
-        "leading": 1.2,
-        "effort": 140.212,
+        "reach": 111.592,
+        "distance": 251.796,
+        "leading": 0,
+        "effort": 140.205,
         "arrival": 0
       },
       "stoppedAlt": "29.000 m",
@@ -883,11 +883,11 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-13T18:00:12Z",
+        "ss": "2016-05-13T18:00:14.39807768141Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 253,
+      "total": 252,
       "landedDistance": "40.655 km",
       "penalties": [],
       "place": "27",
@@ -902,10 +902,10 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 87.928,
-        "distance": 200.098,
+        "reach": 87.923,
+        "distance": 200.087,
         "leading": 0,
-        "effort": 112.17,
+        "effort": 112.164,
         "arrival": 0
       },
       "stoppedAlt": "33.000 m",
@@ -915,7 +915,7 @@
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
-        "es": "2016-05-13T20:29:27Z",
+        "es": "2016-05-13T20:29:26.867373003419Z",
         "ss": null,
         "ssDistance": null,
         "gsVelocity": null
@@ -935,10 +935,10 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 87.887,
-        "distance": 200.057,
+        "reach": 87.882,
+        "distance": 200.046,
         "leading": 0,
-        "effort": 112.17,
+        "effort": 112.164,
         "arrival": 0
       },
       "stoppedAlt": "36.000 m",
@@ -948,7 +948,7 @@
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
-        "es": "2016-05-13T20:20:39Z",
+        "es": "2016-05-13T20:20:38.93295638878Z",
         "ss": null,
         "ssDistance": null,
         "gsVelocity": null
@@ -968,10 +968,10 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 87.735,
-        "distance": 199.905,
+        "reach": 87.731,
+        "distance": 199.894,
         "leading": 0,
-        "effort": 112.17,
+        "effort": 112.164,
         "arrival": 0
       },
       "stoppedAlt": "25.000 m",
@@ -982,7 +982,7 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-13T18:05:34Z",
+        "ss": "2016-05-13T18:05:35.31247673622Z",
         "ssDistance": null,
         "gsVelocity": null
       },
@@ -1001,10 +1001,10 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 87.673,
-        "distance": 199.843,
+        "reach": 87.668,
+        "distance": 199.832,
         "leading": 0,
-        "effort": 112.17,
+        "effort": 112.164,
         "arrival": 0
       },
       "stoppedAlt": "19.000 m",
@@ -1015,7 +1015,7 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-13T18:54:38Z",
+        "ss": "2016-05-13T18:54:42.97467952743Z",
         "ssDistance": null,
         "gsVelocity": null
       },
@@ -1034,10 +1034,10 @@
     {
       "breakdown": {
         "time": 0,
-        "reach": 65.084,
-        "distance": 163.233,
+        "reach": 65.081,
+        "distance": 163.224,
         "leading": 0,
-        "effort": 98.149,
+        "effort": 98.143,
         "arrival": 0
       },
       "stoppedAlt": "28.000 m",
@@ -1048,7 +1048,7 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-13T18:00:13Z",
+        "ss": "2016-05-13T18:00:17.05844941282Z",
         "ssDistance": null,
         "gsVelocity": null
       },

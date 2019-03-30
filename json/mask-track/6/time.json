@@ -1,22 +1,22 @@
 [
   [
     [
-      "104",
-      "Christian Pollet"
+      "131",
+      "Robin Hamilton"
     ],
     {
-      "time": "2.421944 h",
+      "time": "2.421829 h",
       "frac": 1
     }
   ],
   [
     [
-      "131",
-      "Robin Hamilton"
+      "104",
+      "Christian Pollet"
     ],
     {
-      "time": "2.421944 h",
-      "frac": 1
+      "time": "2.421923 h",
+      "frac": 0.99846316
     }
   ],
   [
@@ -25,8 +25,8 @@
       "Tullio Gervasoni"
     ],
     {
-      "time": "2.447222 h",
-      "frac": 0.92567552
+      "time": "2.446145 h",
+      "frac": 0.93750004
     }
   ],
   [
@@ -35,8 +35,8 @@
       "James Stinnett"
     ],
     {
-      "time": "2.463056 h",
-      "frac": 0.89721128
+      "time": "2.462879 h",
+      "frac": 0.91138804
     }
   ]
 ]

@@ -122,11 +122,11 @@
   {
     "goalRatio": 0.575,
     "points": {
-      "time": 401.9,
-      "reach": 189.287,
-      "distance": 378.573,
+      "time": 401.8,
+      "reach": 189.276,
+      "distance": 378.553,
       "leading": 100.5,
-      "effort": 189.287,
+      "effort": 189.276,
       "arrival": 71.8
     },
     "weight": {
