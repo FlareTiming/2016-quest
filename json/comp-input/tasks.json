@@ -16,7 +16,7 @@
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "9950.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -24,7 +24,7 @@
           "lat": 28.25847,
           "zoneName": "T33DS",
           "lng": -81.825,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -32,7 +32,7 @@
           "lat": 27.95703,
           "zoneName": "SUZANE",
           "lng": -81.60162,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -40,7 +40,7 @@
           "lat": 27.5919,
           "zoneName": "AVONPK",
           "lng": -81.52687,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -48,7 +48,7 @@
           "lat": 27.20555,
           "zoneName": "ELLSWR",
           "lng": -81.77722,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         }
       ],
@@ -174,7 +174,7 @@
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "4975.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -182,7 +182,7 @@
           "lat": 28.64555,
           "zoneName": "GROSS",
           "lng": -82.21898,
-          "give": "3015.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -190,7 +190,7 @@
           "lat": 28.71518,
           "zoneName": "TURN33",
           "lng": -81.8967,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -198,7 +198,7 @@
           "lat": 28.3764,
           "zoneName": "T47433",
           "lng": -81.8233,
-          "give": "3015.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -206,7 +206,7 @@
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         }
       ],
@@ -332,7 +332,7 @@
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "4975.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -340,7 +340,7 @@
           "lat": 28.595,
           "zoneName": "KOKEE",
           "lng": -82.1498,
-          "give": "5025.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -348,7 +348,7 @@
           "lat": 28.80142,
           "zoneName": "BARON",
           "lng": -81.93573,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -356,7 +356,7 @@
           "lat": 28.77283,
           "zoneName": "PANOLK",
           "lng": -82.13307,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -364,7 +364,7 @@
           "lat": 28.67143,
           "zoneName": "CHERYL",
           "lng": -82.08718,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         }
       ],
@@ -490,7 +490,7 @@
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "4975.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -498,7 +498,7 @@
           "lat": 28.64555,
           "zoneName": "GROSS",
           "lng": -82.21898,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -506,7 +506,7 @@
           "lat": 28.71518,
           "zoneName": "TURN33",
           "lng": -81.8967,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -514,7 +514,7 @@
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         }
       ],
@@ -627,7 +627,7 @@
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "4975.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -635,7 +635,7 @@
           "lat": 28.71518,
           "zoneName": "TURN33",
           "lng": -81.8967,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -643,7 +643,7 @@
           "lat": 28.25847,
           "zoneName": "T33DS",
           "lng": -81.825,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -651,7 +651,7 @@
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         }
       ],
@@ -764,7 +764,7 @@
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "4975.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -772,7 +772,7 @@
           "lat": 28.25847,
           "zoneName": "T33DS",
           "lng": -81.825,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -780,7 +780,7 @@
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         }
       ],
@@ -880,7 +880,7 @@
           "lat": 28.64147,
           "zoneName": "GRASSO",
           "lng": -81.88063,
-          "give": "14925.0 m",
+          "give": null,
           "alt": "30.000 m"
         },
         {
@@ -888,7 +888,7 @@
           "lat": 28.25298,
           "zoneName": "WALABY",
           "lng": -81.68552,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -896,7 +896,7 @@
           "lat": 28.08083,
           "zoneName": "T27544",
           "lng": -81.6497,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         },
         {
@@ -904,7 +904,7 @@
           "lat": 28.25298,
           "zoneName": "WALABY",
           "lng": -81.68552,
-          "give": "402.0 m",
+          "give": null,
           "alt": "37.000 m"
         }
       ],

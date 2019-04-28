@@ -5,7 +5,7 @@
       "Jonny Durand"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -15,7 +15,7 @@
       "Davis Straub"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -25,7 +25,7 @@
       "John Simon"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -35,7 +35,7 @@
       "Oleg Bondarchuk"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -45,7 +45,7 @@
       "Christian Pollet"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -55,7 +55,7 @@
       "Robin Hamilton"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -65,7 +65,7 @@
       "James Stinnett"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -75,7 +75,7 @@
       "Patrick Kruse"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -85,7 +85,7 @@
       "Zac Majors"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -95,7 +95,17 @@
       "Andrew Hollidge"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "120",
+      "Mike Glennon"
+    ],
+    {
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -105,7 +115,7 @@
       "Misael Rosalez"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -115,7 +125,7 @@
       "Patrick Pannese"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -125,7 +135,7 @@
       "Matt Christensen"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -135,7 +145,7 @@
       "Gerry Pesavento"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -145,7 +155,7 @@
       "Fabiano Nahoum"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -155,7 +165,7 @@
       "Richard lovelace"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -165,7 +175,7 @@
       "Claudia Mejia"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -175,7 +185,7 @@
       "Olav Opsanger"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -185,7 +195,7 @@
       "JD Guillemette"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -195,7 +205,7 @@
       "Bart Weghorst"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -205,7 +215,7 @@
       "Mick Howard"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -215,7 +225,7 @@
       "Robert Dallas"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -225,7 +235,7 @@
       "Olav Olsen"
     ],
     {
-      "reach": "69.860891 km",
+      "reach": "69.860900 km",
       "frac": 1
     }
   ],
@@ -235,8 +245,8 @@
       "Tom Lanning"
     ],
     {
-      "reach": "52.503891 km",
-      "frac": 0.75154912
+      "reach": "52.501900 km",
+      "frac": 0.75152052
     }
   ],
   [
@@ -245,18 +255,8 @@
       "Tullio Gervasoni"
     ],
     {
-      "reach": "51.942891 km",
-      "frac": 0.74351887
-    }
-  ],
-  [
-    [
-      "112",
-      "Sergey Kataev"
-    ],
-    {
-      "reach": "51.174891 km",
-      "frac": 0.7325256
+      "reach": "51.940900 km",
+      "frac": 0.74349028
     }
   ],
   [
@@ -265,8 +265,8 @@
       "Raul Guerra"
     ],
     {
-      "reach": "41.187891 km",
-      "frac": 0.58957008
+      "reach": "41.181900 km",
+      "frac": 0.58948425
     }
   ],
   [
@@ -275,18 +275,8 @@
       "Cory Barnwell"
     ],
     {
-      "reach": "32.451891 km",
-      "frac": 0.46452157
-    }
-  ],
-  [
-    [
-      "120",
-      "Mike Glennon"
-    ],
-    {
-      "reach": "32.436891 km",
-      "frac": 0.46430686
+      "reach": "32.445900 km",
+      "frac": 0.46443576
     }
   ],
   [
@@ -295,8 +285,8 @@
       "Mike Jefferson"
     ],
     {
-      "reach": "32.380891 km",
-      "frac": 0.46350527
+      "reach": "32.374900 km",
+      "frac": 0.46341945
     }
   ],
   [
@@ -305,8 +295,18 @@
       "Anna Eppink"
     ],
     {
-      "reach": "32.357891 km",
-      "frac": 0.46317604
+      "reach": "32.351900 km",
+      "frac": 0.46309023
+    }
+  ],
+  [
+    [
+      "112",
+      "Sergey Kataev"
+    ],
+    {
+      "reach": "32.243900 km",
+      "frac": 0.4615443
     }
   ],
   [
@@ -315,8 +315,8 @@
       "Larry Bunner"
     ],
     {
-      "reach": "24.020891 km",
-      "frac": 0.34383889
+      "reach": "24.014900 km",
+      "frac": 0.34375309
     }
   ]
 ]
