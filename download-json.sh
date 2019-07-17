@@ -55,6 +55,11 @@ for t in {1..7}
 
         mkdir json/mask-track/$t
         curl -X GET -H "Accept:application/json" http://localhost:3000/mask-track/$t/reach | jq > json/mask-track/$t/reach.json
+        curl -X GET -H "Accept:application/json" http://localhost:3000/mask-track/$t/bonus-reach | jq > json/mask-track/$t/bonus-reach.json
+
+        curl -X GET -H "Accept:application/json" http://localhost:3000/mask-track/$t/bolster-stats | jq > json/mask-track/$t/bolster-stats.json
+        curl -X GET -H "Accept:application/json" http://localhost:3000/mask-track/$t/bonus-bolster-stats | jq > json/mask-track/$t/bonus-bolster-stats.json
+
         curl -X GET -H "Accept:application/json" http://localhost:3000/mask-track/$t/arrival | jq > json/mask-track/$t/arrival.json
         curl -X GET -H "Accept:application/json" http://localhost:3000/mask-track/$t/lead | jq > json/mask-track/$t/lead.json
         curl -X GET -H "Accept:application/json" http://localhost:3000/mask-track/$t/time | jq > json/mask-track/$t/time.json

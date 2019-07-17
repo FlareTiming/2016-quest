@@ -1,0 +1,412 @@
+[
+  [
+    [
+      "131",
+      "Robin Hamilton"
+    ],
+    {
+      "reach": "89.526700 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "138",
+      "Jonny Durand"
+    ],
+    {
+      "reach": "89.526700 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "139",
+      "Tullio Gervasoni"
+    ],
+    {
+      "reach": "89.526700 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "128",
+      "Zac Majors"
+    ],
+    {
+      "reach": "89.526700 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "113",
+      "Olav Opsanger"
+    ],
+    {
+      "reach": "89.526700 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "102",
+      "Richard lovelace"
+    ],
+    {
+      "reach": "89.526700 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "110",
+      "Cory Barnwell"
+    ],
+    {
+      "reach": "89.526700 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "117",
+      "Robert Dallas"
+    ],
+    {
+      "reach": "89.526700 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "115",
+      "Andrew Hollidge"
+    ],
+    {
+      "reach": "89.526700 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "101",
+      "Davis Straub"
+    ],
+    {
+      "reach": "89.526700 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "123",
+      "JD Guillemette"
+    ],
+    {
+      "reach": "89.526700 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "108",
+      "Raul Guerra"
+    ],
+    {
+      "reach": "89.526700 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "150",
+      "Claudia Mejia"
+    ],
+    {
+      "reach": "89.526700 km",
+      "frac": 1
+    }
+  ],
+  [
+    [
+      "144",
+      "Tom Lanning"
+    ],
+    {
+      "reach": "88.377700 km",
+      "frac": 0.98716584
+    }
+  ],
+  [
+    [
+      "135",
+      "Misael Rosalez"
+    ],
+    {
+      "reach": "84.749700 km",
+      "frac": 0.94664162
+    }
+  ],
+  [
+    [
+      "120",
+      "Mike Glennon"
+    ],
+    {
+      "reach": "83.507700 km",
+      "frac": 0.93276866
+    }
+  ],
+  [
+    [
+      "111",
+      "Patrick Kruse"
+    ],
+    {
+      "reach": "82.689700 km",
+      "frac": 0.92363172
+    }
+  ],
+  [
+    [
+      "125",
+      "Larry Bunner"
+    ],
+    {
+      "reach": "81.934700 km",
+      "frac": 0.91519848
+    }
+  ],
+  [
+    [
+      "114",
+      "Mick Howard"
+    ],
+    {
+      "reach": "79.749700 km",
+      "frac": 0.89079236
+    }
+  ],
+  [
+    [
+      "112",
+      "Sergey Kataev"
+    ],
+    {
+      "reach": "77.580700 km",
+      "frac": 0.86656495
+    }
+  ],
+  [
+    [
+      "124",
+      "Patrick Pannese"
+    ],
+    {
+      "reach": "76.080700 km",
+      "frac": 0.84981017
+    }
+  ],
+  [
+    [
+      "118",
+      "Ingo Heilmann"
+    ],
+    {
+      "reach": "70.713700 km",
+      "frac": 0.78986157
+    }
+  ],
+  [
+    [
+      "121",
+      "Oleg Bondarchuk"
+    ],
+    {
+      "reach": "69.900700 km",
+      "frac": 0.78078048
+    }
+  ],
+  [
+    [
+      "106",
+      "Fabiano Nahoum"
+    ],
+    {
+      "reach": "69.283700 km",
+      "frac": 0.77388868
+    }
+  ],
+  [
+    [
+      "141",
+      "Patrick Halfhill"
+    ],
+    {
+      "reach": "66.783700 km",
+      "frac": 0.74596405
+    }
+  ],
+  [
+    [
+      "132",
+      "James Stinnett"
+    ],
+    {
+      "reach": "66.508700 km",
+      "frac": 0.74289234
+    }
+  ],
+  [
+    [
+      "133",
+      "Olav Olsen"
+    ],
+    {
+      "reach": "65.499700 km",
+      "frac": 0.73162196
+    }
+  ],
+  [
+    [
+      "129",
+      "Mike Jefferson"
+    ],
+    {
+      "reach": "64.951700 km",
+      "frac": 0.72550088
+    }
+  ],
+  [
+    [
+      "103",
+      "Matt Christensen"
+    ],
+    {
+      "reach": "62.249700 km",
+      "frac": 0.69531994
+    }
+  ],
+  [
+    [
+      "127",
+      "Gerry Pesavento"
+    ],
+    {
+      "reach": "61.953700 km",
+      "frac": 0.69201367
+    }
+  ],
+  [
+    [
+      "137",
+      "Yoko Isomoto"
+    ],
+    {
+      "reach": "58.439700 km",
+      "frac": 0.65276281
+    }
+  ],
+  [
+    [
+      "134",
+      "Kinsley Sykes"
+    ],
+    {
+      "reach": "55.378700 km",
+      "frac": 0.61857189
+    }
+  ],
+  [
+    [
+      "142",
+      "John Simon"
+    ],
+    {
+      "reach": "51.672700 km",
+      "frac": 0.57717642
+    }
+  ],
+  [
+    [
+      "119",
+      "Bart Weghorst"
+    ],
+    {
+      "reach": "50.094700 km",
+      "frac": 0.55955039
+    }
+  ],
+  [
+    [
+      "104",
+      "Christian Pollet"
+    ],
+    {
+      "reach": "42.946700 km",
+      "frac": 0.47970829
+    }
+  ],
+  [
+    [
+      "143",
+      "Anna Eppink"
+    ],
+    {
+      "reach": "42.771700 km",
+      "frac": 0.47775356
+    }
+  ],
+  [
+    [
+      "145",
+      "Roger Irby"
+    ],
+    {
+      "reach": "39.163700 km",
+      "frac": 0.43745274
+    }
+  ],
+  [
+    [
+      "116",
+      "Jeffery Bohl"
+    ],
+    {
+      "reach": "37.665700 km",
+      "frac": 0.4207203
+    }
+  ],
+  [
+    [
+      "146",
+      "Peter Kelley"
+    ],
+    {
+      "reach": "31.180700 km",
+      "frac": 0.34828381
+    }
+  ],
+  [
+    [
+      "126",
+      "Jeff Kannard"
+    ],
+    {
+      "reach": "27.381700 km",
+      "frac": 0.30584954
+    }
+  ],
+  [
+    [
+      "140",
+      "Bill Vickery"
+    ],
+    {
+      "reach": "13.143700 km",
+      "frac": 0.14681319
+    }
+  ]
+]
