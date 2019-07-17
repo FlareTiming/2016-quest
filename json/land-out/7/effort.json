@@ -6,7 +6,7 @@
     ],
     {
       "frac": 1,
-      "effort": "69.861000 km"
+      "effort": "73.357000 km"
     }
   ],
   [
@@ -15,88 +15,8 @@
       "Tom Lanning"
     ],
     {
-      "frac": 0.96551724,
-      "effort": "52.236000 km"
-    }
-  ],
-  [
-    [
-      "139",
-      "Tullio Gervasoni"
-    ],
-    {
-      "frac": 0.93103448,
-      "effort": "50.129000 km"
-    }
-  ],
-  [
-    [
-      "108",
-      "Raul Guerra"
-    ],
-    {
-      "frac": 0.86206896,
-      "effort": "40.649000 km"
-    }
-  ],
-  [
-    [
-      "110",
-      "Cory Barnwell"
-    ],
-    {
-      "frac": 0.75862068,
-      "effort": "32.120000 km"
-    }
-  ],
-  [
-    [
-      "129",
-      "Mike Jefferson"
-    ],
-    {
-      "frac": 0.75862068,
-      "effort": "32.165000 km"
-    }
-  ],
-  [
-    [
-      "143",
-      "Anna Eppink"
-    ],
-    {
-      "frac": 0.75862068,
-      "effort": "32.166000 km"
-    }
-  ],
-  [
-    [
-      "125",
-      "Larry Bunner"
-    ],
-    {
-      "frac": 0.68965518,
-      "effort": "23.905000 km"
-    }
-  ],
-  [
-    [
-      "146",
-      "Peter Kelley"
-    ],
-    {
-      "frac": 0.62068966,
-      "effort": "13.756000 km"
-    }
-  ],
-  [
-    [
-      "118",
-      "Ingo Heilmann"
-    ],
-    {
-      "frac": 0.55172414,
-      "effort": "13.687000 km"
+      "frac": 0.97304024,
+      "effort": "66.836000 km"
     }
   ],
   [
@@ -105,8 +25,88 @@
       "Sergey Kataev"
     ],
     {
-      "frac": 0.44827586,
-      "effort": "13.496000 km"
+      "frac": 0.9614268,
+      "effort": "65.420000 km"
+    }
+  ],
+  [
+    [
+      "139",
+      "Tullio Gervasoni"
+    ],
+    {
+      "frac": 0.95271672,
+      "effort": "64.729000 km"
+    }
+  ],
+  [
+    [
+      "108",
+      "Raul Guerra"
+    ],
+    {
+      "frac": 0.80837826,
+      "effort": "55.249000 km"
+    }
+  ],
+  [
+    [
+      "124",
+      "Patrick Pannese"
+    ],
+    {
+      "frac": 0.71754458,
+      "effort": "46.723000 km"
+    }
+  ],
+  [
+    [
+      "129",
+      "Mike Jefferson"
+    ],
+    {
+      "frac": 0.71754458,
+      "effort": "46.765000 km"
+    }
+  ],
+  [
+    [
+      "143",
+      "Anna Eppink"
+    ],
+    {
+      "frac": 0.71754458,
+      "effort": "46.766000 km"
+    }
+  ],
+  [
+    [
+      "125",
+      "Larry Bunner"
+    ],
+    {
+      "frac": 0.58896724,
+      "effort": "38.505000 km"
+    }
+  ],
+  [
+    [
+      "146",
+      "Peter Kelley"
+    ],
+    {
+      "frac": 0.46329324,
+      "effort": "28.356000 km"
+    }
+  ],
+  [
+    [
+      "118",
+      "Ingo Heilmann"
+    ],
+    {
+      "frac": 0.4624637,
+      "effort": "28.287000 km"
     }
   ],
   [
@@ -115,48 +115,8 @@
       "Jeffery Bohl"
     ],
     {
-      "frac": 0.31034482,
-      "effort": "6.609000 km"
-    }
-  ],
-  [
-    [
-      "145",
-      "Roger Irby"
-    ],
-    {
-      "frac": 0.1724138,
-      "effort": "-2.815000 km"
-    }
-  ],
-  [
-    [
-      "141",
-      "Patrick Halfhill"
-    ],
-    {
-      "frac": 0.1724138,
-      "effort": "-2.802000 km"
-    }
-  ],
-  [
-    [
-      "134",
-      "Kinsley Sykes"
-    ],
-    {
-      "frac": 0.1724138,
-      "effort": "-2.729000 km"
-    }
-  ],
-  [
-    [
-      "126",
-      "Jeff Kannard"
-    ],
-    {
-      "frac": 0.1724138,
-      "effort": "-2.717000 km"
+      "frac": 0.3853173,
+      "effort": "21.209000 km"
     }
   ],
   [
@@ -165,8 +125,48 @@
       "Bill Vickery"
     ],
     {
-      "frac": 0.1724138,
-      "effort": "2.822000 km"
+      "frac": 0.33803402,
+      "effort": "17.422000 km"
+    }
+  ],
+  [
+    [
+      "134",
+      "Kinsley Sykes"
+    ],
+    {
+      "frac": 0.25798424,
+      "effort": "11.871000 km"
+    }
+  ],
+  [
+    [
+      "126",
+      "Jeff Kannard"
+    ],
+    {
+      "frac": 0.25798424,
+      "effort": "11.883000 km"
+    }
+  ],
+  [
+    [
+      "145",
+      "Roger Irby"
+    ],
+    {
+      "frac": 0.25632518,
+      "effort": "11.785000 km"
+    }
+  ],
+  [
+    [
+      "141",
+      "Patrick Halfhill"
+    ],
+    {
+      "frac": 0.25632518,
+      "effort": "11.798000 km"
     }
   ]
 ]

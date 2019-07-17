@@ -868,11 +868,11 @@
     "zones": {
       "raw": [
         {
-          "radius": "15000.0 m",
+          "radius": "400.0 m",
           "lat": 28.64147,
           "zoneName": "GRASSO",
           "lng": -81.88063,
-          "give": "14925.0 m",
+          "give": "398.0 m",
           "alt": "30.000 m"
         },
         {
@@ -950,7 +950,7 @@
         "prolog": [
           {
             "cylinder": {
-              "radius": "15000.0 m",
+              "radius": "400.0 m",
               "center": [
                 "28.64147000 deg",
                 "-81.88063000 deg"

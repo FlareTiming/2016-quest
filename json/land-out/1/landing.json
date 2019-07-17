@@ -1,0 +1,461 @@
+{
+  "chunking": {
+    "endChunk": [
+      1611,
+      "161.1 km"
+    ],
+    "startChunk": [
+      0,
+      "0.0 km"
+    ],
+    "sumOf": 4800
+  },
+  "bestDistance": "160.046610 km",
+  "difficulty": [
+    {
+      "endChunk": "26.8 km",
+      "down": 1,
+      "chunk": 267,
+      "startChunk": "26.7 km",
+      "frac": 0.04197917,
+      "downers": [
+        [
+          "144",
+          "Tom Lanning"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.0003125,
+      "endAhead": "46.8 km",
+      "downs": [
+        "26.762 km"
+      ]
+    },
+    {
+      "endChunk": "32.9 km",
+      "down": 1,
+      "chunk": 328,
+      "startChunk": "32.8 km",
+      "frac": 0.06666667,
+      "downers": [
+        [
+          "129",
+          "Mike Jefferson"
+        ]
+      ],
+      "downward": 5,
+      "rel": 0.00052083,
+      "endAhead": "52.9 km",
+      "downs": [
+        "32.812 km"
+      ]
+    },
+    {
+      "endChunk": "40.4 km",
+      "down": 1,
+      "chunk": 403,
+      "startChunk": "40.3 km",
+      "frac": 0.09791667,
+      "downers": [
+        [
+          "126",
+          "Jeff Kannard"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.00041667,
+      "endAhead": "60.4 km",
+      "downs": [
+        "40.307 km"
+      ]
+    },
+    {
+      "endChunk": "47.4 km",
+      "down": 1,
+      "chunk": 473,
+      "startChunk": "47.3 km",
+      "frac": 0.12625,
+      "downers": [
+        [
+          "101",
+          "Davis Straub"
+        ]
+      ],
+      "downward": 5,
+      "rel": 0.00052083,
+      "endAhead": "67.4 km",
+      "downs": [
+        "47.354 km"
+      ]
+    },
+    {
+      "endChunk": "47.6 km",
+      "down": 1,
+      "chunk": 475,
+      "startChunk": "47.5 km",
+      "frac": 0.12708333,
+      "downers": [
+        [
+          "134",
+          "Kinsley Sykes"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.00041667,
+      "endAhead": "67.6 km",
+      "downs": [
+        "47.539 km"
+      ]
+    },
+    {
+      "endChunk": "52.2 km",
+      "down": 1,
+      "chunk": 521,
+      "startChunk": "52.1 km",
+      "frac": 0.14239583,
+      "downers": [
+        [
+          "112",
+          "Sergey Kataev"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.00041667,
+      "endAhead": "72.2 km",
+      "downs": [
+        "52.132 km"
+      ]
+    },
+    {
+      "endChunk": "63.1 km",
+      "down": 1,
+      "chunk": 630,
+      "startChunk": "63.0 km",
+      "frac": 0.19989583,
+      "downers": [
+        [
+          "118",
+          "Ingo Heilmann"
+        ]
+      ],
+      "downward": 9,
+      "rel": 0.0009375,
+      "endAhead": "83.1 km",
+      "downs": [
+        "63.016 km"
+      ]
+    },
+    {
+      "endChunk": "65.5 km",
+      "down": 1,
+      "chunk": 654,
+      "startChunk": "65.4 km",
+      "frac": 0.21989583,
+      "downers": [
+        [
+          "137",
+          "Yoko Isomoto"
+        ]
+      ],
+      "downward": 8,
+      "rel": 0.00083333,
+      "endAhead": "85.5 km",
+      "downs": [
+        "65.497 km"
+      ]
+    },
+    {
+      "endChunk": "71.3 km",
+      "down": 1,
+      "chunk": 712,
+      "startChunk": "71.2 km",
+      "frac": 0.2621875,
+      "downers": [
+        [
+          "141",
+          "Patrick Halfhill"
+        ]
+      ],
+      "downward": 7,
+      "rel": 0.00072917,
+      "endAhead": "91.3 km",
+      "downs": [
+        "71.233 km"
+      ]
+    },
+    {
+      "endChunk": "75.4 km",
+      "down": 1,
+      "chunk": 753,
+      "startChunk": "75.3 km",
+      "frac": 0.29208333,
+      "downers": [
+        [
+          "103",
+          "Matt Christensen"
+        ]
+      ],
+      "downward": 7,
+      "rel": 0.00072917,
+      "endAhead": "95.4 km",
+      "downs": [
+        "75.352 km"
+      ]
+    },
+    {
+      "endChunk": "76.2 km",
+      "down": 1,
+      "chunk": 761,
+      "startChunk": "76.1 km",
+      "frac": 0.2978125,
+      "downers": [
+        [
+          "108",
+          "Raul Guerra"
+        ]
+      ],
+      "downward": 7,
+      "rel": 0.00072917,
+      "endAhead": "96.2 km",
+      "downs": [
+        "76.111 km"
+      ]
+    },
+    {
+      "endChunk": "76.4 km",
+      "down": 1,
+      "chunk": 763,
+      "startChunk": "76.3 km",
+      "frac": 0.2990625,
+      "downers": [
+        [
+          "124",
+          "Patrick Pannese"
+        ]
+      ],
+      "downward": 6,
+      "rel": 0.000625,
+      "endAhead": "96.4 km",
+      "downs": [
+        "76.346 km"
+      ]
+    },
+    {
+      "endChunk": "82.1 km",
+      "down": 1,
+      "chunk": 820,
+      "startChunk": "82.0 km",
+      "frac": 0.33625,
+      "downers": [
+        [
+          "102",
+          "Richard lovelace"
+        ]
+      ],
+      "downward": 7,
+      "rel": 0.00072917,
+      "endAhead": "102.1 km",
+      "downs": [
+        "82.079 km"
+      ]
+    },
+    {
+      "endChunk": "83.0 km",
+      "down": 2,
+      "chunk": 829,
+      "startChunk": "82.9 km",
+      "frac": 0.341875,
+      "downers": [
+        [
+          "123",
+          "JD Guillemette"
+        ],
+        [
+          "104",
+          "Christian Pollet"
+        ]
+      ],
+      "downward": 6,
+      "rel": 0.000625,
+      "endAhead": "103.0 km",
+      "downs": [
+        "82.930 km",
+        "82.953 km"
+      ]
+    },
+    {
+      "endChunk": "91.3 km",
+      "down": 1,
+      "chunk": 912,
+      "startChunk": "91.2 km",
+      "frac": 0.38395833,
+      "downers": [
+        [
+          "140",
+          "Bill Vickery"
+        ]
+      ],
+      "downward": 5,
+      "rel": 0.00052083,
+      "endAhead": "111.3 km",
+      "downs": [
+        "91.205 km"
+      ]
+    },
+    {
+      "endChunk": "95.5 km",
+      "down": 1,
+      "chunk": 954,
+      "startChunk": "95.4 km",
+      "frac": 0.40145833,
+      "downers": [
+        [
+          "116",
+          "Jeffery Bohl"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.00041667,
+      "endAhead": "115.5 km",
+      "downs": [
+        "95.476 km"
+      ]
+    },
+    {
+      "endChunk": "98.2 km",
+      "down": 1,
+      "chunk": 981,
+      "startChunk": "98.1 km",
+      "frac": 0.40989583,
+      "downers": [
+        [
+          "117",
+          "Robert Dallas"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.0003125,
+      "endAhead": "118.2 km",
+      "downs": [
+        "98.131 km"
+      ]
+    },
+    {
+      "endChunk": "98.8 km",
+      "down": 1,
+      "chunk": 987,
+      "startChunk": "98.7 km",
+      "frac": 0.41114583,
+      "downers": [
+        [
+          "150",
+          "Claudia Mejia"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.00020833,
+      "endAhead": "118.8 km",
+      "downs": [
+        "98.765 km"
+      ]
+    },
+    {
+      "endChunk": "104.1 km",
+      "down": 1,
+      "chunk": 1040,
+      "startChunk": "104.0 km",
+      "frac": 0.41666667,
+      "downers": [
+        [
+          "110",
+          "Cory Barnwell"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00010417,
+      "endAhead": "124.1 km",
+      "downs": [
+        "104.059 km"
+      ]
+    },
+    {
+      "endChunk": "129.8 km",
+      "down": 1,
+      "chunk": 1297,
+      "startChunk": "129.7 km",
+      "frac": 0.46947917,
+      "downers": [
+        [
+          "143",
+          "Anna Eppink"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.00041667,
+      "endAhead": "149.8 km",
+      "downs": [
+        "129.718 km"
+      ]
+    },
+    {
+      "endChunk": "133.3 km",
+      "down": 1,
+      "chunk": 1332,
+      "startChunk": "133.2 km",
+      "frac": 0.48041667,
+      "downers": [
+        [
+          "120",
+          "Mike Glennon"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.0003125,
+      "endAhead": "153.3 km",
+      "downs": [
+        "133.254 km"
+      ]
+    },
+    {
+      "endChunk": "137.5 km",
+      "down": 1,
+      "chunk": 1374,
+      "startChunk": "137.4 km",
+      "frac": 0.48916667,
+      "downers": [
+        [
+          "146",
+          "Peter Kelley"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.00020833,
+      "endAhead": "157.5 km",
+      "downs": [
+        "137.481 km"
+      ]
+    },
+    {
+      "endChunk": "147.9 km",
+      "down": 1,
+      "chunk": 1478,
+      "startChunk": "147.8 km",
+      "frac": 0.5,
+      "downers": [
+        [
+          "135",
+          "Misael Rosalez"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00010417,
+      "endAhead": "167.9 km",
+      "downs": [
+        "147.825 km"
+      ]
+    }
+  ],
+  "lookahead": 200,
+  "minDistance": "5.000 km",
+  "landout": 24
+}

@@ -1,18 +1,10 @@
 {
-  "scoredSeconds": [
-    0,
-    3315
-  ],
   "flyingSeconds": [
     0,
     3315
   ],
   "loggedSeconds": 3315,
   "loggedTimes": [
-    "2016-05-13T17:44:51Z",
-    "2016-05-13T18:40:06Z"
-  ],
-  "scoredTimes": [
     "2016-05-13T17:44:51Z",
     "2016-05-13T18:40:06Z"
   ],
@@ -23,10 +15,6 @@
   "flyingTimes": [
     "2016-05-13T17:44:51Z",
     "2016-05-13T18:40:06Z"
-  ],
-  "scoredFixes": [
-    0,
-    601
   ],
   "loggedFixes": 602
 }
