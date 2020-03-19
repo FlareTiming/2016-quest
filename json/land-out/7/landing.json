@@ -8,41 +8,40 @@
       0,
       "0.0 km"
     ],
-    "sumOf": 2411
+    "sumOf": 2371
   },
-  "bestDistance": "84.460900 km",
+  "bestDistance": "84.458264 km",
   "difficulty": [
     {
       "endChunk": "11.8 km",
-      "down": 2,
+      "down": 1,
       "chunk": 117,
       "startChunk": "11.7 km",
-      "frac": 0.12816259,
+      "frac": 0.13412062,
       "downers": [
         [
           "145",
           "Roger Irby"
-        ],
-        [
-          "141",
-          "Patrick Halfhill"
         ]
       ],
       "downward": 6,
-      "rel": 0.0012443,
-      "endAhead": "26.7 km",
+      "rel": 0.00126529,
+      "endAhead": "27.6 km",
       "downs": [
-        "11.785 km",
-        "11.798 km"
+        "11.789 km"
       ]
     },
     {
       "endChunk": "11.9 km",
-      "down": 2,
+      "down": 3,
       "chunk": 118,
       "startChunk": "11.8 km",
-      "frac": 0.12899212,
+      "frac": 0.13517503,
       "downers": [
+        [
+          "141",
+          "Patrick Halfhill"
+        ],
         [
           "134",
           "Kinsley Sykes"
@@ -52,12 +51,13 @@
           "Jeff Kannard"
         ]
       ],
-      "downward": 4,
-      "rel": 0.00082953,
-      "endAhead": "26.8 km",
+      "downward": 5,
+      "rel": 0.00105441,
+      "endAhead": "27.7 km",
       "downs": [
-        "11.871 km",
-        "11.883 km"
+        "11.802 km",
+        "11.875 km",
+        "11.887 km"
       ]
     },
     {
@@ -65,7 +65,7 @@
       "down": 1,
       "chunk": 174,
       "startChunk": "17.4 km",
-      "frac": 0.16901701,
+      "frac": 0.17967102,
       "downers": [
         [
           "140",
@@ -73,10 +73,10 @@
         ]
       ],
       "downward": 4,
-      "rel": 0.00082953,
-      "endAhead": "32.4 km",
+      "rel": 0.00084353,
+      "endAhead": "33.3 km",
       "downs": [
-        "17.422 km"
+        "17.426 km"
       ]
     },
     {
@@ -84,7 +84,7 @@
       "down": 1,
       "chunk": 212,
       "startChunk": "21.2 km",
-      "frac": 0.19265865,
+      "frac": 0.20371151,
       "downers": [
         [
           "116",
@@ -92,10 +92,10 @@
         ]
       ],
       "downward": 3,
-      "rel": 0.00062215,
-      "endAhead": "36.2 km",
+      "rel": 0.00063264,
+      "endAhead": "37.1 km",
       "downs": [
-        "21.209 km"
+        "21.214 km"
       ]
     },
     {
@@ -103,7 +103,7 @@
       "down": 1,
       "chunk": 282,
       "startChunk": "28.2 km",
-      "frac": 0.23123185,
+      "frac": 0.2448334,
       "downers": [
         [
           "118",
@@ -111,10 +111,10 @@
         ]
       ],
       "downward": 3,
-      "rel": 0.00062215,
-      "endAhead": "43.2 km",
+      "rel": 0.00063264,
+      "endAhead": "44.1 km",
       "downs": [
-        "28.287 km"
+        "28.292 km"
       ]
     },
     {
@@ -122,7 +122,7 @@
       "down": 1,
       "chunk": 283,
       "startChunk": "28.3 km",
-      "frac": 0.23164662,
+      "frac": 0.24525517,
       "downers": [
         [
           "146",
@@ -130,10 +130,10 @@
         ]
       ],
       "downward": 2,
-      "rel": 0.00041477,
-      "endAhead": "43.3 km",
+      "rel": 0.00042176,
+      "endAhead": "44.2 km",
       "downs": [
-        "28.356 km"
+        "28.359 km"
       ]
     },
     {
@@ -141,31 +141,27 @@
       "down": 1,
       "chunk": 385,
       "startChunk": "38.5 km",
-      "frac": 0.29448362,
+      "frac": 0.29881906,
       "downers": [
         [
           "125",
           "Larry Bunner"
         ]
       ],
-      "downward": 4,
-      "rel": 0.00082953,
-      "endAhead": "53.5 km",
+      "downward": 3,
+      "rel": 0.00063264,
+      "endAhead": "54.4 km",
       "downs": [
-        "38.505 km"
+        "38.508 km"
       ]
     },
     {
       "endChunk": "46.8 km",
-      "down": 3,
+      "down": 2,
       "chunk": 467,
       "startChunk": "46.7 km",
-      "frac": 0.35877229,
+      "frac": 0.34879798,
       "downers": [
-        [
-          "124",
-          "Patrick Pannese"
-        ],
         [
           "129",
           "Mike Jefferson"
@@ -175,13 +171,12 @@
           "Anna Eppink"
         ]
       ],
-      "downward": 4,
-      "rel": 0.00082953,
-      "endAhead": "61.7 km",
+      "downward": 3,
+      "rel": 0.00063264,
+      "endAhead": "62.6 km",
       "downs": [
-        "46.723 km",
-        "46.765 km",
-        "46.766 km"
+        "46.768 km",
+        "46.770 km"
       ]
     },
     {
@@ -189,7 +184,7 @@
       "down": 1,
       "chunk": 552,
       "startChunk": "55.2 km",
-      "frac": 0.40418913,
+      "frac": 0.40067482,
       "downers": [
         [
           "108",
@@ -197,10 +192,10 @@
         ]
       ],
       "downward": 4,
-      "rel": 0.00082953,
-      "endAhead": "70.2 km",
+      "rel": 0.00084353,
+      "endAhead": "71.1 km",
       "downs": [
-        "55.249 km"
+        "55.252 km"
       ]
     },
     {
@@ -208,7 +203,7 @@
       "down": 1,
       "chunk": 647,
       "startChunk": "64.7 km",
-      "frac": 0.47635836,
+      "frac": 0.47595951,
       "downers": [
         [
           "139",
@@ -216,10 +211,10 @@
         ]
       ],
       "downward": 4,
-      "rel": 0.00082953,
-      "endAhead": "79.7 km",
+      "rel": 0.00084353,
+      "endAhead": "80.6 km",
       "downs": [
-        "64.729 km"
+        "64.728 km"
       ]
     },
     {
@@ -227,7 +222,7 @@
       "down": 1,
       "chunk": 654,
       "startChunk": "65.4 km",
-      "frac": 0.4807134,
+      "frac": 0.48038802,
       "downers": [
         [
           "112",
@@ -235,10 +230,10 @@
         ]
       ],
       "downward": 3,
-      "rel": 0.00062215,
-      "endAhead": "80.4 km",
+      "rel": 0.00063264,
+      "endAhead": "81.3 km",
       "downs": [
-        "65.420 km"
+        "65.419 km"
       ]
     },
     {
@@ -246,7 +241,7 @@
       "down": 1,
       "chunk": 668,
       "startChunk": "66.8 km",
-      "frac": 0.48652012,
+      "frac": 0.4862927,
       "downers": [
         [
           "144",
@@ -254,10 +249,10 @@
         ]
       ],
       "downward": 2,
-      "rel": 0.00041477,
-      "endAhead": "81.8 km",
+      "rel": 0.00042176,
+      "endAhead": "82.7 km",
       "downs": [
-        "66.836 km"
+        "66.835 km"
       ]
     },
     {
@@ -273,14 +268,14 @@
         ]
       ],
       "downward": 1,
-      "rel": 0.00020738,
-      "endAhead": "88.3 km",
+      "rel": 0.00021088,
+      "endAhead": "89.2 km",
       "downs": [
-        "73.357 km"
+        "73.354 km"
       ]
     }
   ],
-  "lookahead": 149,
+  "lookahead": 158,
   "minDistance": "5.000 km",
-  "landout": 17
+  "landout": 16
 }

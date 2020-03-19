@@ -5,6 +5,8 @@
       "Zac Majors"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "113.620 km",
         "flown": "113.620 km"
@@ -18,19 +20,23 @@
         "arrival": 65.8
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "113.620 km",
+      "subtotal": 972.97,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:50:00Z",
-        "ssVelocity": "32.22 km / h",
-        "ssElapsed": "3.383094 h",
-        "gsElapsed": "3.385625 h",
-        "es": "2016-05-08T21:13:08.251026833082Z",
-        "ss": "2016-05-08T17:50:09.114026218896Z",
+        "ssVelocity": "32.23 km / h",
+        "ssElapsed": "3.382796 h",
+        "gsElapsed": "3.385608 h",
+        "es": "2016-05-08T21:13:08.187280225338Z",
+        "ss": "2016-05-08T17:50:10.122087774812Z",
         "ssDistance": "109.020 km",
         "gsVelocity": "32.20 km / h"
       },
-      "total": 973,
+      "total": 972.97,
       "penalties": [],
       "place": "1"
     }
@@ -41,6 +47,8 @@
       "Olav Opsanger"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "113.620 km",
         "flown": "113.620 km"
@@ -54,19 +62,23 @@
         "arrival": 57.8
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "113.620 km",
+      "subtotal": 840.699,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
-        "ssVelocity": "28.36 km / h",
-        "ssElapsed": "3.843706 h",
-        "gsElapsed": "3.868973 h",
-        "es": "2016-05-08T21:22:08.304579969099Z",
-        "ss": "2016-05-08T17:31:30.96231358465Z",
+        "ssVelocity": "28.37 km / h",
+        "ssElapsed": "3.843263 h",
+        "gsElapsed": "3.868956 h",
+        "es": "2016-05-08T21:22:08.242735322283Z",
+        "ss": "2016-05-08T17:31:32.494622566275Z",
         "ssDistance": "109.020 km",
         "gsVelocity": "28.20 km / h"
       },
-      "total": 841,
+      "total": 840.699,
       "penalties": [],
       "place": "2"
     }
@@ -77,6 +89,8 @@
       "Larry Bunner"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "113.620 km",
         "flown": "113.620 km"
@@ -90,19 +104,23 @@
         "arrival": 50.6
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "113.620 km",
+      "subtotal": 813.283,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": "28.08 km / h",
-        "ssElapsed": "3.882524 h",
-        "gsElapsed": "3.924173 h",
-        "es": "2016-05-08T21:25:27.0231795892Z",
-        "ss": "2016-05-08T17:32:29.936616051916Z",
+        "ssElapsed": "3.882099 h",
+        "gsElapsed": "3.924150 h",
+        "es": "2016-05-08T21:25:26.940660814459Z",
+        "ss": "2016-05-08T17:32:31.38356355264Z",
         "ssDistance": "109.020 km",
         "gsVelocity": "27.80 km / h"
       },
-      "total": 813,
+      "total": 813.283,
       "penalties": [],
       "place": "3"
     }
@@ -113,6 +131,8 @@
       "Tullio Gervasoni"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "113.620 km",
         "flown": "113.620 km"
@@ -126,19 +146,23 @@
         "arrival": 44.3
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "113.620 km",
+      "subtotal": 804.475,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": "27.69 km / h",
-        "ssElapsed": "3.937706 h",
-        "gsElapsed": "3.957511 h",
-        "es": "2016-05-08T21:27:27.04074655897Z",
-        "ss": "2016-05-08T17:31:11.29740003308Z",
+        "ssElapsed": "3.937272 h",
+        "gsElapsed": "3.957493 h",
+        "es": "2016-05-08T21:27:26.975681076253Z",
+        "ss": "2016-05-08T17:31:12.79618728503Z",
         "ssDistance": "109.020 km",
         "gsVelocity": "27.60 km / h"
       },
-      "total": 804,
+      "total": 804.475,
       "penalties": [],
       "place": "4"
     }
@@ -149,6 +173,8 @@
       "Oleg Bondarchuk"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "113.620 km",
         "flown": "113.620 km"
@@ -162,19 +188,23 @@
         "arrival": 38.7
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "113.620 km",
+      "subtotal": 786.781,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": "27.17 km / h",
-        "ssElapsed": "4.012811 h",
-        "gsElapsed": "4.034525 h",
-        "es": "2016-05-08T21:32:04.29123113464Z",
-        "ss": "2016-05-08T17:31:18.17038231048Z",
+        "ssElapsed": "4.012225 h",
+        "gsElapsed": "4.034508 h",
+        "es": "2016-05-08T21:32:04.22849466656Z",
+        "ss": "2016-05-08T17:31:20.21708462052Z",
         "ssDistance": "109.020 km",
         "gsVelocity": "27.00 km / h"
       },
-      "total": 787,
+      "total": 786.781,
       "penalties": [],
       "place": "5"
     }
@@ -185,6 +215,8 @@
       "Jonny Durand"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "113.620 km",
         "flown": "113.620 km"
@@ -193,24 +225,28 @@
         "time": 182.3,
         "reach": 236.607,
         "distance": 473.215,
-        "leading": 84.7,
+        "leading": 84.8,
         "effort": 236.607,
         "arrival": 33.8
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "113.620 km",
+      "subtotal": 774.079,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": "26.98 km / h",
-        "ssElapsed": "4.041182 h",
-        "gsElapsed": "4.047246 h",
-        "es": "2016-05-08T21:32:50.08456719428Z",
-        "ss": "2016-05-08T17:30:21.82972000212Z",
+        "ssElapsed": "4.040751 h",
+        "gsElapsed": "4.047224 h",
+        "es": "2016-05-08T21:32:50.007622480938Z",
+        "ss": "2016-05-08T17:30:23.30416538469Z",
         "ssDistance": "109.020 km",
         "gsVelocity": "26.90 km / h"
       },
-      "total": 774,
+      "total": 774.079,
       "penalties": [],
       "place": "6"
     }
@@ -221,6 +257,8 @@
       "Patrick Kruse"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "113.620 km",
         "flown": "113.620 km"
@@ -229,24 +267,28 @@
         "time": 167.3,
         "reach": 236.607,
         "distance": 473.215,
-        "leading": 74.2,
+        "leading": 74.3,
         "effort": 236.607,
         "arrival": 29.6
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "113.620 km",
+      "subtotal": 744.39,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": "26.68 km / h",
-        "ssElapsed": "4.085965 h",
-        "gsElapsed": "4.128699 h",
-        "es": "2016-05-08T21:37:43.317809974518Z",
-        "ss": "2016-05-08T17:32:33.84540159468Z",
+        "ssElapsed": "4.085496 h",
+        "gsElapsed": "4.128681 h",
+        "es": "2016-05-08T21:37:43.252204595695Z",
+        "ss": "2016-05-08T17:32:35.46661616339Z",
         "ssDistance": "109.020 km",
         "gsVelocity": "26.40 km / h"
       },
-      "total": 744,
+      "total": 744.39,
       "penalties": [],
       "place": "7"
     }
@@ -257,6 +299,8 @@
       "James Stinnett"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "113.620 km",
         "flown": "113.620 km"
@@ -270,19 +314,23 @@
         "arrival": 26
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "113.620 km",
+      "subtotal": 737.983,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": "26.46 km / h",
-        "ssElapsed": "4.120007 h",
-        "gsElapsed": "4.158755 h",
-        "es": "2016-05-08T21:39:31.516936945028Z",
-        "ss": "2016-05-08T17:32:19.4910010601Z",
+        "ssElapsed": "4.119584 h",
+        "gsElapsed": "4.158736 h",
+        "es": "2016-05-08T21:39:31.449756319946Z",
+        "ss": "2016-05-08T17:32:20.9473673129Z",
         "ssDistance": "109.020 km",
         "gsVelocity": "26.20 km / h"
       },
-      "total": 738,
+      "total": 737.983,
       "penalties": [],
       "place": "8"
     }
@@ -293,6 +341,8 @@
       "Robin Hamilton"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "113.620 km",
         "flown": "113.620 km"
@@ -306,19 +356,23 @@
         "arrival": 23
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "113.620 km",
+      "subtotal": 732.174,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": "26.24 km / h",
-        "ssElapsed": "4.154708 h",
-        "gsElapsed": "4.173750 h",
-        "es": "2016-05-08T21:40:25.500158800724Z",
-        "ss": "2016-05-08T17:31:08.550489232966Z",
+        "ssElapsed": "4.154244 h",
+        "gsElapsed": "4.173729 h",
+        "es": "2016-05-08T21:40:25.423151307283Z",
+        "ss": "2016-05-08T17:31:10.14614711765Z",
         "ssDistance": "109.020 km",
         "gsVelocity": "26.10 km / h"
       },
-      "total": 732,
+      "total": 732.174,
       "penalties": [],
       "place": "9"
     }
@@ -329,6 +383,8 @@
       "John Simon"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "113.620 km",
         "flown": "113.620 km"
@@ -342,19 +398,23 @@
         "arrival": 20.6
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "113.620 km",
+      "subtotal": 730.034,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": "26.15 km / h",
-        "ssElapsed": "4.169027 h",
-        "gsElapsed": "4.182973 h",
-        "es": "2016-05-08T21:40:58.7035892517Z",
-        "ss": "2016-05-08T17:30:50.206819599766Z",
+        "ssElapsed": "4.168381 h",
+        "gsElapsed": "4.182946 h",
+        "es": "2016-05-08T21:40:58.60625296248Z",
+        "ss": "2016-05-08T17:30:52.432942793188Z",
         "ssDistance": "109.020 km",
         "gsVelocity": "26.10 km / h"
       },
-      "total": 730,
+      "total": 730.034,
       "penalties": [],
       "place": "10"
     }
@@ -365,6 +425,8 @@
       "Bart Weghorst"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "113.620 km",
         "flown": "113.620 km"
@@ -378,19 +440,23 @@
         "arrival": 18.5
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "113.620 km",
+      "subtotal": 716.037,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
-        "ssVelocity": "25.84 km / h",
-        "ssElapsed": "4.218708 h",
-        "gsElapsed": "4.237323 h",
-        "es": "2016-05-08T21:44:14.36311021456Z",
-        "ss": "2016-05-08T17:31:07.01375205763Z",
+        "ssVelocity": "25.85 km / h",
+        "ssElapsed": "4.218140 h",
+        "gsElapsed": "4.237292 h",
+        "es": "2016-05-08T21:44:14.25249534502Z",
+        "ss": "2016-05-08T17:31:08.94828806409Z",
         "ssDistance": "109.020 km",
         "gsVelocity": "25.70 km / h"
       },
-      "total": 716,
+      "total": 716.037,
       "penalties": [],
       "place": "11"
     }
@@ -401,6 +467,8 @@
       "Fabiano Nahoum"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "113.620 km",
         "flown": "113.620 km"
@@ -414,19 +482,23 @@
         "arrival": 16.9
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "113.620 km",
+      "subtotal": 710.349,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
-        "ssVelocity": "25.64 km / h",
-        "ssElapsed": "4.251325 h",
-        "gsElapsed": "4.259631 h",
-        "es": "2016-05-08T21:45:34.67179607566Z",
-        "ss": "2016-05-08T17:30:29.90229575866Z",
+        "ssVelocity": "25.70 km / h",
+        "ssElapsed": "4.242768 h",
+        "gsElapsed": "4.259609 h",
+        "es": "2016-05-08T21:45:34.59131529103Z",
+        "ss": "2016-05-08T17:31:00.62703726178Z",
         "ssDistance": "109.020 km",
         "gsVelocity": "25.60 km / h"
       },
-      "total": 710,
+      "total": 710.349,
       "penalties": [],
       "place": "12"
     }
@@ -437,6 +509,8 @@
       "JD Guillemette"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "113.620 km",
         "flown": "113.620 km"
@@ -450,19 +524,23 @@
         "arrival": 15.7
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "113.620 km",
+      "subtotal": 673.566,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
-        "ssVelocity": "24.62 km / h",
-        "ssElapsed": "4.428541 h",
-        "gsElapsed": "4.444571 h",
-        "es": "2016-05-08T21:56:40.454786890804Z",
-        "ss": "2016-05-08T17:30:57.707587046475Z",
+        "ssVelocity": "24.67 km / h",
+        "ssElapsed": "4.419042 h",
+        "gsElapsed": "4.444549 h",
+        "es": "2016-05-08T21:56:40.375159947884Z",
+        "ss": "2016-05-08T17:31:31.822245040545Z",
         "ssDistance": "109.020 km",
         "gsVelocity": "24.50 km / h"
       },
-      "total": 674,
+      "total": 673.566,
       "penalties": [],
       "place": "13"
     }
@@ -473,6 +551,8 @@
       "Gerry Pesavento"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "113.620 km",
         "flown": "113.620 km"
@@ -481,24 +561,28 @@
         "time": 92.4,
         "reach": 236.607,
         "distance": 473.215,
-        "leading": 68.1,
+        "leading": 68.2,
         "effort": 236.607,
         "arrival": 14.8
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "113.620 km",
+      "subtotal": 648.546,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": "24.01 km / h",
-        "ssElapsed": "4.541532 h",
-        "gsElapsed": "4.579275 h",
-        "es": "2016-05-08T22:04:45.388390842288Z",
-        "ss": "2016-05-08T17:32:15.872402098165Z",
+        "ssElapsed": "4.541069 h",
+        "gsElapsed": "4.579253 h",
+        "es": "2016-05-08T22:04:45.31065453434Z",
+        "ss": "2016-05-08T17:32:17.46111183659Z",
         "ssDistance": "109.020 km",
         "gsVelocity": "23.80 km / h"
       },
-      "total": 649,
+      "total": 648.546,
       "penalties": [],
       "place": "14"
     }
@@ -509,6 +593,8 @@
       "Anna Eppink"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "113.620 km",
         "flown": "113.620 km"
@@ -517,24 +603,28 @@
         "time": 85.1,
         "reach": 236.607,
         "distance": 473.215,
-        "leading": 71.1,
+        "leading": 71.2,
         "effort": 236.607,
         "arrival": 14.1
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "113.620 km",
+      "subtotal": 643.568,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": "23.65 km / h",
-        "ssElapsed": "4.610134 h",
-        "gsElapsed": "4.626982 h",
-        "es": "2016-05-08T22:07:37.133669626529Z",
-        "ss": "2016-05-08T17:31:00.64981738193Z",
+        "ssElapsed": "4.609597 h",
+        "gsElapsed": "4.626962 h",
+        "es": "2016-05-08T22:07:37.06292962556Z",
+        "ss": "2016-05-08T17:31:02.5121470072Z",
         "ssDistance": "109.020 km",
         "gsVelocity": "23.60 km / h"
       },
-      "total": 644,
+      "total": 643.568,
       "penalties": [],
       "place": "15"
     }
@@ -545,6 +635,8 @@
       "Mike Glennon"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "113.620 km",
         "flown": "113.620 km"
@@ -558,19 +650,23 @@
         "arrival": 13.6
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "113.620 km",
+      "subtotal": 636.588,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": "23.39 km / h",
-        "ssElapsed": "4.660830 h",
-        "gsElapsed": "4.682222 h",
-        "es": "2016-05-08T22:10:56.000873000906Z",
-        "ss": "2016-05-08T17:31:17.012694644823Z",
+        "ssElapsed": "4.660330 h",
+        "gsElapsed": "4.682200 h",
+        "es": "2016-05-08T22:10:55.920045019694Z",
+        "ss": "2016-05-08T17:31:18.730519121238Z",
         "ssDistance": "109.020 km",
         "gsVelocity": "23.30 km / h"
       },
-      "total": 637,
+      "total": 636.588,
       "penalties": [],
       "place": "16"
     }
@@ -581,6 +677,8 @@
       "Tom Lanning"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
         "extra": "113.620 km",
         "flown": "113.620 km"
@@ -594,19 +692,23 @@
         "arrival": 13.4
       },
       "stoppedAlt": null,
+      "demeritFrac": 0,
+      "demeritReset": 0,
       "landedMade": "113.620 km",
+      "subtotal": 602.937,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": "22.69 km / h",
-        "ssElapsed": "4.804695 h",
-        "gsElapsed": "4.832986 h",
-        "es": "2016-05-08T22:19:58.751174887636Z",
-        "ss": "2016-05-08T17:31:41.849246591996Z",
+        "ssElapsed": "4.803906 h",
+        "gsElapsed": "4.832960 h",
+        "es": "2016-05-08T22:19:58.656877638036Z",
+        "ss": "2016-05-08T17:31:44.595217002284Z",
         "ssDistance": "109.020 km",
         "gsVelocity": "22.60 km / h"
       },
-      "total": 603,
+      "total": 602.937,
       "penalties": [],
       "place": "17"
     }
@@ -617,32 +719,38 @@
       "Yoko Isomoto"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "97.691 km",
-        "flown": "97.691 km"
+        "extra": "97.717 km",
+        "flown": "97.717 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 203.436,
-        "distance": 436.438,
-        "leading": 55.6,
-        "effort": 233.002,
+        "reach": 203.49,
+        "distance": 436.708,
+        "leading": 54.9,
+        "effort": 233.218,
         "arrival": 0
       },
       "stoppedAlt": "5.000 m",
-      "landedMade": "97.691 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "97.723 km",
+      "subtotal": 491.598,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:32:12.26428311253Z",
+        "ss": "2016-05-08T17:32:13.95367093002Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 492,
+      "total": 491.598,
       "penalties": [],
       "place": "18"
     }
@@ -653,32 +761,38 @@
       "Malcolm Brown"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "100.450 km",
-        "flown": "100.450 km"
+        "extra": "100.452 km",
+        "flown": "100.452 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 209.181,
-        "distance": 445.789,
-        "leading": 44.4,
+        "reach": 209.186,
+        "distance": 445.793,
+        "leading": 44,
         "effort": 236.607,
         "arrival": 0
       },
       "stoppedAlt": "6.000 m",
-      "landedMade": "99.978 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "99.980 km",
+      "subtotal": 489.747,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:30:07.180230048569Z",
+        "ss": "2016-05-08T17:30:08.925163010938Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 490,
+      "total": 489.747,
       "penalties": [],
       "place": "19"
     }
@@ -689,32 +803,38 @@
       "Jeffery Bohl"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "98.494 km",
-        "flown": "98.494 km"
+        "extra": "98.525 km",
+        "flown": "98.525 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 205.108,
-        "distance": 440.417,
-        "leading": 41.5,
-        "effort": 235.309,
+        "reach": 205.173,
+        "distance": 440.698,
+        "leading": 41,
+        "effort": 235.526,
         "arrival": 0
       },
       "stoppedAlt": "14.000 m",
-      "landedMade": "98.483 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "98.515 km",
+      "subtotal": 481.657,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:32:37.023837735045Z",
+        "ss": "2016-05-08T17:32:38.9495496798Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 482,
+      "total": 481.657,
       "penalties": [],
       "place": "20"
     }
@@ -725,32 +845,38 @@
       "Davis Straub"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "92.336 km",
-        "flown": "92.336 km"
+        "extra": "92.368 km",
+        "flown": "92.368 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 192.285,
-        "distance": 405.815,
-        "leading": 71.9,
-        "effort": 213.531,
+        "reach": 192.351,
+        "distance": 405.738,
+        "leading": 70.2,
+        "effort": 213.386,
         "arrival": 0
       },
       "stoppedAlt": "-2.000 m",
-      "landedMade": "92.240 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "92.272 km",
+      "subtotal": 475.918,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:32:27.641093434485Z",
+        "ss": "2016-05-08T17:32:29.057906927705Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 478,
+      "total": 475.918,
       "penalties": [],
       "place": "21"
     }
@@ -761,32 +887,38 @@
       "Matt Christensen"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "98.704 km",
-        "flown": "98.704 km"
+        "extra": "98.732 km",
+        "flown": "98.732 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 205.546,
-        "distance": 441.215,
+        "reach": 205.604,
+        "distance": 441.274,
         "leading": 28.1,
         "effort": 235.67,
         "arrival": 0
       },
       "stoppedAlt": "30.000 m",
-      "landedMade": "98.637 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "98.668 km",
+      "subtotal": 469.343,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:32:16.349348797676Z",
+        "ss": "2016-05-08T17:32:17.999236413884Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 469,
+      "total": 469.343,
       "penalties": [],
       "place": "22"
     }
@@ -797,32 +929,38 @@
       "Cory Barnwell"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "98.618 km",
-        "flown": "98.618 km"
+        "extra": "98.645 km",
+        "flown": "98.645 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 205.366,
-        "distance": 440.892,
-        "leading": 26.6,
+        "reach": 205.423,
+        "distance": 440.948,
+        "leading": 26.5,
         "effort": 235.526,
         "arrival": 0
       },
       "stoppedAlt": "-1.000 m",
-      "landedMade": "98.537 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "98.568 km",
+      "subtotal": 467.469,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:50:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:50:32.372145633655Z",
+        "ss": "2016-05-08T17:50:33.686556825112Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 468,
+      "total": 467.469,
       "penalties": [],
       "place": "23"
     }
@@ -833,32 +971,38 @@
       "Raul Guerra"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "94.061 km",
-        "flown": "94.061 km"
+        "extra": "94.094 km",
+        "flown": "94.094 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 195.877,
-        "distance": 379.841,
-        "leading": 32,
-        "effort": 183.964,
+        "reach": 195.945,
+        "distance": 379.837,
+        "leading": 31.2,
+        "effort": 183.892,
         "arrival": 0
       },
       "stoppedAlt": "11.000 m",
-      "landedMade": "84.647 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "84.680 km",
+      "subtotal": 411.009,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:50:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:50:30.06548298451Z",
+        "ss": "2016-05-08T17:50:31.31559736129Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 412,
+      "total": 411.009,
       "penalties": [],
       "place": "24"
     }
@@ -869,32 +1013,38 @@
       "Robert Dallas"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "85.506 km",
-        "flown": "85.506 km"
+        "extra": "85.538 km",
+        "flown": "85.538 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 178.061,
-        "distance": 362.025,
-        "leading": 42.6,
-        "effort": 183.964,
+        "reach": 178.128,
+        "distance": 362.02,
+        "leading": 40.7,
+        "effort": 183.892,
         "arrival": 0
       },
       "stoppedAlt": "1.000 m",
-      "landedMade": "84.606 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "84.638 km",
+      "subtotal": 402.724,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:31:52.336014552254Z",
+        "ss": "2016-05-08T17:31:54.117332203004Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 405,
+      "total": 402.724,
       "penalties": [],
       "place": "25"
     }
@@ -905,32 +1055,38 @@
       "Richard lovelace"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "77.442 km",
-        "flown": "77.442 km"
+        "extra": "77.474 km",
+        "flown": "77.474 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 161.269,
-        "distance": 329.007,
-        "leading": 42.9,
-        "effort": 167.738,
+        "reach": 161.335,
+        "distance": 329.001,
+        "leading": 39.7,
+        "effort": 167.666,
         "arrival": 0
       },
       "stoppedAlt": "17.000 m",
-      "landedMade": "77.026 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "77.058 km",
+      "subtotal": 368.741,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:30:56.60388856626Z",
+        "ss": "2016-05-08T17:30:57.99804048618Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 372,
+      "total": 368.741,
       "penalties": [],
       "place": "26"
     }
@@ -941,32 +1097,38 @@
       "Misael Rosalez"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "78.907 km",
-        "flown": "78.907 km"
+        "extra": "78.938 km",
+        "flown": "78.938 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 164.319,
-        "distance": 335.735,
-        "leading": 33.5,
-        "effort": 171.416,
+        "reach": 164.384,
+        "distance": 335.944,
+        "leading": 30.9,
+        "effort": 171.56,
         "arrival": 0
       },
       "stoppedAlt": "0.000 m",
-      "landedMade": "78.781 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "78.812 km",
+      "subtotal": 366.813,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:31:01.590329525199Z",
+        "ss": "2016-05-08T17:31:03.301349435601Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 369,
+      "total": 366.813,
       "penalties": [],
       "place": "27"
     }
@@ -977,32 +1139,38 @@
       "Claudia Mejia"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "77.280 km",
-        "flown": "77.280 km"
+        "extra": "77.312 km",
+        "flown": "77.312 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 160.931,
-        "distance": 328.669,
-        "leading": 32.3,
-        "effort": 167.738,
+        "reach": 160.998,
+        "distance": 328.664,
+        "leading": 29.4,
+        "effort": 167.666,
         "arrival": 0
       },
       "stoppedAlt": "62.000 m",
-      "landedMade": "77.044 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "77.076 km",
+      "subtotal": 358.092,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:31:57.948489208871Z",
+        "ss": "2016-05-08T17:31:59.40112424006Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 361,
+      "total": 358.092,
       "penalties": [],
       "place": "28"
     }
@@ -1013,70 +1181,40 @@
       "Patrick Pannese"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "76.247 km",
-        "flown": "76.247 km"
+        "extra": "76.279 km",
+        "flown": "76.279 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 158.78,
-        "distance": 323.634,
-        "leading": 33.5,
-        "effort": 164.853,
+        "reach": 158.847,
+        "distance": 323.628,
+        "leading": 30.4,
+        "effort": 164.781,
         "arrival": 0
       },
       "stoppedAlt": "4.000 m",
-      "landedMade": "76.247 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "76.279 km",
+      "subtotal": 354.016,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:50:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:50:29.919294093508Z",
+        "ss": "2016-05-08T17:50:31.284264531824Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 357,
+      "total": 354.016,
       "penalties": [],
       "place": "29"
-    }
-  ],
-  [
-    [
-      "126",
-      "Jeff Kannard"
-    ],
-    {
-      "reach": {
-        "extra": "71.770 km",
-        "flown": "71.770 km"
-      },
-      "breakdown": {
-        "time": 0,
-        "reach": 149.457,
-        "distance": 291.883,
-        "leading": 47.5,
-        "effort": 142.426,
-        "arrival": 0
-      },
-      "stoppedAlt": "-2.000 m",
-      "landedMade": "71.769 km",
-      "penaltyReason": "",
-      "velocity": {
-        "gs": "2016-05-08T17:30:00Z",
-        "ssVelocity": null,
-        "ssElapsed": null,
-        "gsElapsed": null,
-        "es": null,
-        "ss": "2016-05-08T17:36:19.542557835283Z",
-        "ssDistance": null,
-        "gsVelocity": null
-      },
-      "total": 339,
-      "penalties": [],
-      "place": "30"
     }
   ],
   [
@@ -1085,32 +1223,80 @@
       "Roger Irby"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "75.877 km",
-        "flown": "75.877 km"
+        "extra": "75.907 km",
+        "flown": "75.907 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 158.01,
-        "distance": 321.132,
-        "leading": 16.9,
-        "effort": 163.123,
+        "reach": 158.072,
+        "distance": 321.555,
+        "leading": 14.1,
+        "effort": 163.483,
         "arrival": 0
       },
       "stoppedAlt": "-7.000 m",
-      "landedMade": "75.877 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "75.909 km",
+      "subtotal": 335.675,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:50:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:50:48.712014810255Z",
+        "ss": "2016-05-08T17:50:50.116670666225Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 338,
+      "total": 335.675,
+      "penalties": [],
+      "place": "30"
+    }
+  ],
+  [
+    [
+      "126",
+      "Jeff Kannard"
+    ],
+    {
+      "jump": null,
+      "demeritPoint": 0,
+      "reach": {
+        "extra": "71.801 km",
+        "flown": "71.801 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 149.521,
+        "distance": 292.308,
+        "leading": 43.1,
+        "effort": 142.786,
+        "arrival": 0
+      },
+      "stoppedAlt": "-2.000 m",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "71.801 km",
+      "subtotal": 335.425,
+      "penaltyReason": "",
+      "penaltiesJump": [],
+      "velocity": {
+        "gs": "2016-05-08T17:30:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2016-05-08T17:36:21.388512406393Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 335.425,
       "penalties": [],
       "place": "31"
     }
@@ -1121,32 +1307,38 @@
       "Andrew Hollidge"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "71.584 km",
-        "flown": "71.584 km"
+        "extra": "71.614 km",
+        "flown": "71.614 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 149.07,
-        "distance": 290.342,
-        "leading": 25.3,
-        "effort": 141.272,
+        "reach": 149.132,
+        "distance": 290.188,
+        "leading": 21.6,
+        "effort": 141.056,
         "arrival": 0
       },
       "stoppedAlt": "12.000 m",
-      "landedMade": "71.517 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "71.549 km",
+      "subtotal": 311.833,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:30:35.61411175229Z",
+        "ss": "2016-05-08T17:30:37.55346783535Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 316,
+      "total": 311.833,
       "penalties": [],
       "place": "32"
     }
@@ -1157,32 +1349,38 @@
       "Olav Olsen"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "57.781 km",
-        "flown": "57.781 km"
+        "extra": "57.813 km",
+        "flown": "57.813 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 120.326,
-        "distance": 215.228,
-        "leading": 20.1,
+        "reach": 120.392,
+        "distance": 215.295,
+        "leading": 13.9,
         "effort": 94.903,
         "arrival": 0
       },
       "stoppedAlt": "2.000 m",
-      "landedMade": "57.408 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "57.443 km",
+      "subtotal": 229.176,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:30:12.782123849679Z",
+        "ss": "2016-05-08T17:31:11.781916527192Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 235,
+      "total": 229.176,
       "penalties": [],
       "place": "33"
     }
@@ -1193,32 +1391,38 @@
       "Sergey Kataev"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "54.562 km",
-        "flown": "54.562 km"
+        "extra": "54.594 km",
+        "flown": "54.594 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 113.622,
-        "distance": 206.217,
+        "reach": 113.689,
+        "distance": 206.356,
         "leading": 0,
-        "effort": 92.595,
+        "effort": 92.667,
         "arrival": 0
       },
       "stoppedAlt": "59.000 m",
-      "landedMade": "54.299 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "54.334 km",
+      "subtotal": 206.356,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:38:18.753582979881Z",
+        "ss": "2016-05-08T17:38:20.089938767799Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 206,
+      "total": 206.356,
       "penalties": [],
       "place": "34"
     }
@@ -1229,32 +1433,38 @@
       "Kinsley Sykes"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "53.962 km",
-        "flown": "53.962 km"
+        "extra": "53.994 km",
+        "flown": "53.994 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 112.373,
-        "distance": 203.958,
+        "reach": 112.439,
+        "distance": 203.952,
         "leading": 0,
-        "effort": 91.585,
+        "effort": 91.513,
         "arrival": 0
       },
       "stoppedAlt": "8.000 m",
-      "landedMade": "53.535 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "53.570 km",
+      "subtotal": 203.952,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:50:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:54:42.631507991008Z",
+        "ss": "2016-05-08T17:54:44.289486520544Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 204,
+      "total": 203.952,
       "penalties": [],
       "place": "35"
     }
@@ -1265,32 +1475,38 @@
       "Michael Williams"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "52.760 km",
-        "flown": "52.760 km"
+        "extra": "52.792 km",
+        "flown": "52.792 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 109.87,
-        "distance": 197.561,
+        "reach": 109.936,
+        "distance": 197.555,
         "leading": 0,
-        "effort": 87.691,
+        "effort": 87.619,
         "arrival": 0
       },
       "stoppedAlt": "4.000 m",
-      "landedMade": "51.727 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "51.761 km",
+      "subtotal": 197.555,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:50:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:51:08.499755880732Z",
+        "ss": "2016-05-08T17:51:10.086809980572Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 198,
+      "total": 197.555,
       "penalties": [],
       "place": "36"
     }
@@ -1301,32 +1517,38 @@
       "Patrick Halfhill"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "51.285 km",
-        "flown": "51.285 km"
+        "extra": "51.316 km",
+        "flown": "51.316 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 106.798,
-        "distance": 190.739,
+        "reach": 106.863,
+        "distance": 190.732,
         "leading": 0,
-        "effort": 83.941,
+        "effort": 83.869,
         "arrival": 0
       },
       "stoppedAlt": "1.000 m",
-      "landedMade": "50.436 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "50.470 km",
+      "subtotal": 190.732,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:49:21.909793882315Z",
+        "ss": "2016-05-08T17:49:23.493885767509Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 191,
+      "total": 190.732,
       "penalties": [],
       "place": "37"
     }
@@ -1337,32 +1559,38 @@
       "Bill Vickery"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "49.896 km",
-        "flown": "49.896 km"
+        "extra": "49.928 km",
+        "flown": "49.928 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 103.906,
-        "distance": 185.323,
+        "reach": 103.972,
+        "distance": 185.317,
         "leading": 0,
-        "effort": 81.417,
+        "effort": 81.345,
         "arrival": 0
       },
       "stoppedAlt": "-13.000 m",
-      "landedMade": "49.754 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "49.789 km",
+      "subtotal": 185.317,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:31:03.2056950059Z",
+        "ss": "2016-05-08T17:31:49.228200404214Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 185,
+      "total": 185.317,
       "penalties": [],
       "place": "38"
     }
@@ -1373,32 +1601,38 @@
       "Peter Kelley"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "48.961 km",
-        "flown": "48.961 km"
+        "extra": "48.993 km",
+        "flown": "48.993 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 101.958,
-        "distance": 179.914,
+        "reach": 102.025,
+        "distance": 179.909,
         "leading": 0,
-        "effort": 77.956,
+        "effort": 77.884,
         "arrival": 0
       },
       "stoppedAlt": "3.000 m",
-      "landedMade": "48.961 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "48.996 km",
+      "subtotal": 179.909,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:50:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:51:24.595480480715Z",
+        "ss": "2016-05-08T17:51:26.053254956414Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 180,
+      "total": 179.909,
       "penalties": [],
       "place": "39"
     }
@@ -1409,32 +1643,38 @@
       "Mike Jefferson"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "38.110 km",
-        "flown": "38.110 km"
+        "extra": "38.142 km",
+        "flown": "38.142 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 79.362,
-        "distance": 110.804,
+        "reach": 79.428,
+        "distance": 110.87,
         "leading": 0,
         "effort": 31.442,
         "arrival": 0
       },
       "stoppedAlt": "-17.000 m",
-      "landedMade": "37.833 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "37.868 km",
+      "subtotal": 110.87,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:50:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:52:02.74377532593Z",
+        "ss": "2016-05-08T17:52:04.64119935764Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 111,
+      "total": 110.87,
       "penalties": [],
       "place": "40"
     }
@@ -1445,32 +1685,38 @@
       "Mick Howard"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "21.317 km",
-        "flown": "21.317 km"
+        "extra": "21.377 km",
+        "flown": "21.377 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 44.391,
-        "distance": 63.718,
+        "reach": 44.516,
+        "distance": 63.843,
         "leading": 0,
         "effort": 19.327,
         "arrival": 0
       },
       "stoppedAlt": "-6.000 m",
-      "landedMade": "20.624 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "20.688 km",
+      "subtotal": 63.843,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:30:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:32:14.423716691958Z",
+        "ss": "2016-05-08T17:32:16.22615037381Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 64,
+      "total": 63.843,
       "penalties": [],
       "place": "41"
     }
@@ -1481,32 +1727,38 @@
       "Christian Pollet"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "20.684 km",
-        "flown": "20.684 km"
+        "extra": "20.745 km",
+        "flown": "20.745 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 43.073,
-        "distance": 62.183,
+        "reach": 43.2,
+        "distance": 62.31,
         "leading": 0,
         "effort": 19.11,
         "arrival": 0
       },
       "stoppedAlt": "-3.000 m",
-      "landedMade": "20.309 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "20.373 km",
+      "subtotal": 62.31,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": "2016-05-08T17:50:00Z",
         "ssVelocity": null,
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2016-05-08T17:56:38.997474330892Z",
+        "ss": "2016-05-08T17:56:40.522648210702Z",
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 62,
+      "total": 62.31,
       "penalties": [],
       "place": "42"
     }
@@ -1517,9 +1769,11 @@
       "Ingo Heilmann"
     ],
     {
+      "jump": null,
+      "demeritPoint": 0,
       "reach": {
-        "extra": "2.394 km",
-        "flown": "2.394 km"
+        "extra": "2.453 km",
+        "flown": "2.453 km"
       },
       "breakdown": {
         "time": 0,
@@ -1530,8 +1784,12 @@
         "arrival": 0
       },
       "stoppedAlt": "577.000 m",
-      "landedMade": "0.531 km",
+      "demeritFrac": 0,
+      "demeritReset": 0,
+      "landedMade": "0.595 km",
+      "subtotal": 10.845,
       "penaltyReason": "",
+      "penaltiesJump": [],
       "velocity": {
         "gs": null,
         "ssVelocity": null,
@@ -1542,7 +1800,7 @@
         "ssDistance": null,
         "gsVelocity": null
       },
-      "total": 11,
+      "total": 10.845,
       "penalties": [],
       "place": "43"
     }

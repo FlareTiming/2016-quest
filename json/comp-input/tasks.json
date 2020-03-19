@@ -4,51 +4,57 @@
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "398.0 m",
           "alt": "37.000 m"
         },
         {
+          "giveIn": "9950.0 m",
           "radius": "10000.0 m",
+          "giveOut": "10050.0 m",
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.25847,
           "zoneName": "T33DS",
           "lng": -81.825,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 27.95703,
           "zoneName": "SUZANE",
           "lng": -81.60162,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 27.5919,
           "zoneName": "AVONPK",
           "lng": -81.52687,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 27.20555,
           "zoneName": "ELLSWR",
           "lng": -81.77722,
-          "give": null,
           "alt": "37.000 m"
         }
       ],
@@ -120,8 +126,10 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
     },
     "startGates": [
       "2016-05-07T17:30:00Z",
@@ -129,6 +137,7 @@
       "2016-05-07T18:10:00Z",
       "2016-05-07T18:30:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -155,58 +164,69 @@
         "close": "2016-05-08T00:00:00Z",
         "open": "2016-05-07T17:30:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "tooEarlyReset": 0,
+      "earlyPenalty": "3 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "QUEST-QUEST",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "398.0 m",
           "alt": "37.000 m"
         },
         {
+          "giveIn": "4975.0 m",
           "radius": "5000.0 m",
+          "giveOut": "5025.0 m",
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "2985.0 m",
           "radius": "3000.0 m",
+          "giveOut": "3015.0 m",
           "lat": 28.64555,
           "zoneName": "GROSS",
           "lng": -82.21898,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.71518,
           "zoneName": "TURN33",
           "lng": -81.8967,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "2985.0 m",
           "radius": "3000.0 m",
+          "giveOut": "3015.0 m",
           "lat": 28.3764,
           "zoneName": "T47433",
           "lng": -81.8233,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": null,
           "alt": "37.000 m"
         }
       ],
@@ -278,8 +298,10 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
     },
     "startGates": [
       "2016-05-08T17:30:00Z",
@@ -287,6 +309,7 @@
       "2016-05-08T18:10:00Z",
       "2016-05-08T18:30:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -313,58 +336,69 @@
         "close": "2016-05-09T00:00:00Z",
         "open": "2016-05-08T17:30:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "tooEarlyReset": 0,
+      "earlyPenalty": "3 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "QUEST-CHERYL",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "398.0 m",
           "alt": "37.000 m"
         },
         {
+          "giveIn": "4975.0 m",
           "radius": "5000.0 m",
+          "giveOut": "5025.0 m",
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "4975.0 m",
           "radius": "5000.0 m",
+          "giveOut": "5025.0 m",
           "lat": 28.595,
           "zoneName": "KOKEE",
           "lng": -82.1498,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.80142,
           "zoneName": "BARON",
           "lng": -81.93573,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.77283,
           "zoneName": "PANOLK",
           "lng": -82.13307,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.67143,
           "zoneName": "CHERYL",
           "lng": -82.08718,
-          "give": null,
           "alt": "37.000 m"
         }
       ],
@@ -436,14 +470,42 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
     },
     "startGates": [
       "2016-05-09T18:30:00Z",
       "2016-05-09T18:50:00Z",
       "2016-05-09T19:10:00Z",
       "2016-05-09T19:30:00Z"
+    ],
+    "penalsAuto": [
+      [
+        [
+          "126",
+          "Jeff Kannard"
+        ],
+        [
+          {
+            "penalty-points": 25.3333333333333
+          }
+        ],
+        "Jumped the gun by 1:16"
+      ],
+      [
+        [
+          "150",
+          "Claudia Mejia"
+        ],
+        [
+          {
+            "penalty-points": 57.6666666666667
+          }
+        ],
+        "Jumped the gun by 2:53"
+      ]
     ],
     "penals": [],
     "zoneTimes": [
@@ -471,50 +533,60 @@
         "close": "2016-05-10T00:00:00Z",
         "open": "2016-05-09T18:30:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "tooEarlyReset": 0,
+      "earlyPenalty": "3 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "QUEST-QUEST",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "398.0 m",
           "alt": "37.000 m"
         },
         {
+          "giveIn": "4975.0 m",
           "radius": "5000.0 m",
+          "giveOut": "5025.0 m",
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.64555,
           "zoneName": "GROSS",
           "lng": -82.21898,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.71518,
           "zoneName": "TURN33",
           "lng": -81.8967,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": null,
           "alt": "37.000 m"
         }
       ],
@@ -577,8 +649,10 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
     },
     "startGates": [
       "2016-05-10T18:00:00Z",
@@ -586,6 +660,7 @@
       "2016-05-10T18:40:00Z",
       "2016-05-10T19:00:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -608,50 +683,60 @@
         "close": "2016-05-11T00:00:00Z",
         "open": "2016-05-10T18:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "tooEarlyReset": 0,
+      "earlyPenalty": "3 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "QUEST-QUEST",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "398.0 m",
           "alt": "37.000 m"
         },
         {
+          "giveIn": "4975.0 m",
           "radius": "5000.0 m",
+          "giveOut": "5025.0 m",
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.71518,
           "zoneName": "TURN33",
           "lng": -81.8967,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.25847,
           "zoneName": "T33DS",
           "lng": -81.825,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": null,
           "alt": "37.000 m"
         }
       ],
@@ -714,8 +799,10 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
     },
     "startGates": [
       "2016-05-11T18:20:00Z",
@@ -723,6 +810,7 @@
       "2016-05-11T19:00:00Z",
       "2016-05-11T19:20:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -745,42 +833,51 @@
         "close": "2016-05-12T00:00:00Z",
         "open": "2016-05-11T18:20:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "tooEarlyReset": 0,
+      "earlyPenalty": "3 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "QUEST-QUEST",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": "398.0 m",
           "alt": "37.000 m"
         },
         {
+          "giveIn": "4975.0 m",
           "radius": "5000.0 m",
+          "giveOut": "5025.0 m",
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.25847,
           "zoneName": "T33DS",
           "lng": -81.825,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.53303,
           "zoneName": "QUEST",
           "lng": -81.84667,
-          "give": null,
           "alt": "37.000 m"
         }
       ],
@@ -834,14 +931,42 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
     },
     "startGates": [
       "2016-05-12T19:30:00Z",
       "2016-05-12T19:50:00Z",
       "2016-05-12T20:10:00Z",
       "2016-05-12T20:30:00Z"
+    ],
+    "penalsAuto": [
+      [
+        [
+          "117",
+          "Robert Dallas"
+        ],
+        [
+          {
+            "penalty-points": 2.33333333333333
+          }
+        ],
+        "Jumped the gun by 0:07"
+      ],
+      [
+        [
+          "150",
+          "Claudia Mejia"
+        ],
+        [
+          {
+            "penalty-points": 2.33333333333333
+          }
+        ],
+        "Jumped the gun by 0:07"
+      ]
     ],
     "penals": [],
     "zoneTimes": [
@@ -861,50 +986,60 @@
         "close": "2016-05-13T00:00:00Z",
         "open": "2016-05-12T19:30:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "tooEarlyReset": 0,
+      "earlyPenalty": "3 s",
+      "earliest": "300 s"
+    }
   },
   {
     "taskName": "T7 GRASSO-WALABY",
     "zones": {
       "raw": [
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.64147,
           "zoneName": "GRASSO",
           "lng": -81.88063,
-          "give": "398.0 m",
           "alt": "30.000 m"
         },
         {
+          "giveIn": "14925.0 m",
           "radius": "15000.0 m",
+          "giveOut": "15075.0 m",
           "lat": 28.64147,
           "zoneName": "GRASSO",
           "lng": -81.88063,
-          "give": null,
           "alt": "30.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.25298,
           "zoneName": "WALABY",
           "lng": -81.68552,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.08083,
           "zoneName": "T27544",
           "lng": -81.6497,
-          "give": null,
           "alt": "37.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 28.25298,
           "zoneName": "WALABY",
           "lng": -81.68552,
-          "give": null,
           "alt": "37.000 m"
         }
       ],
@@ -967,8 +1102,10 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": true,
+      "arrivalRank": true
     },
     "startGates": [
       "2016-05-13T18:00:00Z",
@@ -976,6 +1113,7 @@
       "2016-05-13T18:40:00Z",
       "2016-05-13T19:00:00Z"
     ],
+    "penalsAuto": [],
     "penals": [
       [
         [
@@ -1011,6 +1149,11 @@
         "close": "2016-05-14T00:00:00Z",
         "open": "2016-05-13T18:00:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "tooEarlyReset": 0,
+      "earlyPenalty": "3 s",
+      "earliest": "300 s"
+    }
   }
 ]

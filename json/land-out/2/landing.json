@@ -10,7 +10,7 @@
     ],
     "sumOf": 3281
   },
-  "bestDistance": "113.619887 km",
+  "bestDistance": "113.619850 km",
   "difficulty": [
     {
       "endChunk": "0.6 km",
@@ -28,7 +28,7 @@
       "rel": 0.00015239,
       "endAhead": "13.7 km",
       "downs": [
-        "0.531 km"
+        "0.595 km"
       ]
     },
     {
@@ -47,7 +47,7 @@
       "rel": 0.00030479,
       "endAhead": "33.5 km",
       "downs": [
-        "20.309 km"
+        "20.373 km"
       ]
     },
     {
@@ -66,7 +66,7 @@
       "rel": 0.00015239,
       "endAhead": "33.8 km",
       "downs": [
-        "20.624 km"
+        "20.688 km"
       ]
     },
     {
@@ -85,7 +85,7 @@
       "rel": 0.00060957,
       "endAhead": "51.0 km",
       "downs": [
-        "37.833 km"
+        "37.868 km"
       ]
     },
     {
@@ -93,7 +93,7 @@
       "down": 1,
       "chunk": 489,
       "startChunk": "48.9 km",
-      "frac": 0.16473636,
+      "frac": 0.16458397,
       "downers": [
         [
           "146",
@@ -104,7 +104,7 @@
       "rel": 0.00106675,
       "endAhead": "62.1 km",
       "downs": [
-        "48.961 km"
+        "48.996 km"
       ]
     },
     {
@@ -112,7 +112,7 @@
       "down": 1,
       "chunk": 497,
       "startChunk": "49.7 km",
-      "frac": 0.1720512,
+      "frac": 0.17189881,
       "downers": [
         [
           "140",
@@ -123,7 +123,7 @@
       "rel": 0.00091436,
       "endAhead": "62.9 km",
       "downs": [
-        "49.754 km"
+        "49.789 km"
       ]
     },
     {
@@ -131,7 +131,7 @@
       "down": 1,
       "chunk": 504,
       "startChunk": "50.4 km",
-      "frac": 0.17738494,
+      "frac": 0.17723255,
       "downers": [
         [
           "141",
@@ -142,7 +142,7 @@
       "rel": 0.00076196,
       "endAhead": "63.6 km",
       "downs": [
-        "50.436 km"
+        "50.470 km"
       ]
     },
     {
@@ -150,7 +150,7 @@
       "down": 1,
       "chunk": 517,
       "startChunk": "51.7 km",
-      "frac": 0.18530936,
+      "frac": 0.18515696,
       "downers": [
         [
           "109",
@@ -161,7 +161,7 @@
       "rel": 0.00060957,
       "endAhead": "64.9 km",
       "downs": [
-        "51.727 km"
+        "51.761 km"
       ]
     },
     {
@@ -169,7 +169,7 @@
       "down": 1,
       "chunk": 535,
       "startChunk": "53.5 km",
-      "frac": 0.19353856,
+      "frac": 0.19338616,
       "downers": [
         [
           "134",
@@ -180,15 +180,15 @@
       "rel": 0.00045718,
       "endAhead": "66.7 km",
       "downs": [
-        "53.535 km"
+        "53.570 km"
       ]
     },
     {
-      "endChunk": "54.3 km",
+      "endChunk": "54.4 km",
       "down": 1,
-      "chunk": 542,
-      "startChunk": "54.2 km",
-      "frac": 0.19567205,
+      "chunk": 543,
+      "startChunk": "54.3 km",
+      "frac": 0.19582444,
       "downers": [
         [
           "112",
@@ -197,9 +197,9 @@
       ],
       "downward": 2,
       "rel": 0.00030479,
-      "endAhead": "67.4 km",
+      "endAhead": "67.5 km",
       "downs": [
-        "54.299 km"
+        "54.334 km"
       ]
     },
     {
@@ -218,7 +218,7 @@
       "rel": 0.00015239,
       "endAhead": "70.6 km",
       "downs": [
-        "57.408 km"
+        "57.443 km"
       ]
     },
     {
@@ -226,7 +226,7 @@
       "down": 1,
       "chunk": 715,
       "startChunk": "71.5 km",
-      "frac": 0.29853703,
+      "frac": 0.29807985,
       "downers": [
         [
           "115",
@@ -237,15 +237,15 @@
       "rel": 0.00106675,
       "endAhead": "84.7 km",
       "downs": [
-        "71.517 km"
+        "71.549 km"
       ]
     },
     {
-      "endChunk": "71.8 km",
+      "endChunk": "71.9 km",
       "down": 1,
-      "chunk": 717,
-      "startChunk": "71.7 km",
-      "frac": 0.30097531,
+      "chunk": 718,
+      "startChunk": "71.8 km",
+      "frac": 0.30173728,
       "downers": [
         [
           "126",
@@ -254,17 +254,17 @@
       ],
       "downward": 8,
       "rel": 0.00121914,
-      "endAhead": "84.9 km",
+      "endAhead": "85.0 km",
       "downs": [
-        "71.769 km"
+        "71.801 km"
       ]
     },
     {
-      "endChunk": "75.9 km",
+      "endChunk": "76.0 km",
       "down": 1,
-      "chunk": 758,
-      "startChunk": "75.8 km",
-      "frac": 0.34471198,
+      "chunk": 759,
+      "startChunk": "75.9 km",
+      "frac": 0.34547394,
       "downers": [
         [
           "145",
@@ -273,9 +273,9 @@
       ],
       "downward": 7,
       "rel": 0.00106675,
-      "endAhead": "89.0 km",
+      "endAhead": "89.1 km",
       "downs": [
-        "75.877 km"
+        "75.909 km"
       ]
     },
     {
@@ -283,7 +283,7 @@
       "down": 1,
       "chunk": 762,
       "startChunk": "76.2 km",
-      "frac": 0.3483694,
+      "frac": 0.34821701,
       "downers": [
         [
           "124",
@@ -294,7 +294,7 @@
       "rel": 0.00091436,
       "endAhead": "89.4 km",
       "downs": [
-        "76.247 km"
+        "76.279 km"
       ]
     },
     {
@@ -302,7 +302,7 @@
       "down": 2,
       "chunk": 770,
       "startChunk": "77.0 km",
-      "frac": 0.3544651,
+      "frac": 0.35431271,
       "downers": [
         [
           "102",
@@ -317,16 +317,16 @@
       "rel": 0.00076196,
       "endAhead": "90.2 km",
       "downs": [
-        "77.026 km",
-        "77.044 km"
+        "77.058 km",
+        "77.076 km"
       ]
     },
     {
-      "endChunk": "78.8 km",
+      "endChunk": "78.9 km",
       "down": 1,
-      "chunk": 787,
-      "startChunk": "78.7 km",
-      "frac": 0.36223712,
+      "chunk": 788,
+      "startChunk": "78.8 km",
+      "frac": 0.36254191,
       "downers": [
         [
           "135",
@@ -335,9 +335,9 @@
       ],
       "downward": 3,
       "rel": 0.00045718,
-      "endAhead": "91.9 km",
+      "endAhead": "92.0 km",
       "downs": [
-        "78.781 km"
+        "78.812 km"
       ]
     },
     {
@@ -345,7 +345,7 @@
       "down": 2,
       "chunk": 846,
       "startChunk": "84.6 km",
-      "frac": 0.38875343,
+      "frac": 0.38860104,
       "downers": [
         [
           "117",
@@ -356,12 +356,12 @@
           "Raul Guerra"
         ]
       ],
-      "downward": 4,
-      "rel": 0.00060957,
+      "downward": 3,
+      "rel": 0.00045718,
       "endAhead": "97.8 km",
       "downs": [
-        "84.606 km",
-        "84.647 km"
+        "84.638 km",
+        "84.680 km"
       ]
     },
     {
@@ -369,7 +369,7 @@
       "down": 1,
       "chunk": 922,
       "startChunk": "92.2 km",
-      "frac": 0.45123438,
+      "frac": 0.45092959,
       "downers": [
         [
           "101",
@@ -380,15 +380,15 @@
       "rel": 0.00091436,
       "endAhead": "105.4 km",
       "downs": [
-        "92.240 km"
+        "92.272 km"
       ]
     },
     {
-      "endChunk": "97.7 km",
+      "endChunk": "97.8 km",
       "down": 1,
-      "chunk": 976,
-      "startChunk": "97.6 km",
-      "frac": 0.49238037,
+      "chunk": 977,
+      "startChunk": "97.7 km",
+      "frac": 0.49283755,
       "downers": [
         [
           "137",
@@ -397,47 +397,33 @@
       ],
       "downward": 5,
       "rel": 0.00076196,
-      "endAhead": "110.8 km",
+      "endAhead": "110.9 km",
       "downs": [
-        "97.691 km"
-      ]
-    },
-    {
-      "endChunk": "98.5 km",
-      "down": 1,
-      "chunk": 984,
-      "startChunk": "98.4 km",
-      "frac": 0.49725693,
-      "downers": [
-        [
-          "116",
-          "Jeffery Bohl"
-        ]
-      ],
-      "downward": 4,
-      "rel": 0.00060957,
-      "endAhead": "111.6 km",
-      "downs": [
-        "98.483 km"
+        "97.723 km"
       ]
     },
     {
       "endChunk": "98.6 km",
-      "down": 1,
+      "down": 2,
       "chunk": 985,
       "startChunk": "98.5 km",
       "frac": 0.49771411,
       "downers": [
         [
+          "116",
+          "Jeffery Bohl"
+        ],
+        [
           "110",
           "Cory Barnwell"
         ]
       ],
-      "downward": 3,
-      "rel": 0.00045718,
+      "downward": 4,
+      "rel": 0.00060957,
       "endAhead": "111.7 km",
       "downs": [
-        "98.537 km"
+        "98.515 km",
+        "98.568 km"
       ]
     },
     {
@@ -456,7 +442,7 @@
       "rel": 0.00030479,
       "endAhead": "111.8 km",
       "downs": [
-        "98.637 km"
+        "98.668 km"
       ]
     },
     {
@@ -475,7 +461,7 @@
       "rel": 0.00015239,
       "endAhead": "113.1 km",
       "downs": [
-        "99.978 km"
+        "99.980 km"
       ]
     }
   ],

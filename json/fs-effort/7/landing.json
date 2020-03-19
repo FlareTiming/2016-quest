@@ -10,7 +10,7 @@
     ],
     "sumOf": 2438
   },
-  "bestDistance": null,
+  "bestDistance": "84.452000 km",
   "difficulty": [
     {
       "endChunk": "13.2 km",
@@ -191,20 +191,20 @@
       "frac": 0.35233798,
       "downers": [
         [
-          "129",
-          "Mike Jefferson"
-        ],
-        [
           "143",
           "Anna Eppink"
+        ],
+        [
+          "129",
+          "Mike Jefferson"
         ]
       ],
       "downward": 1,
       "rel": 0.00061526,
       "endAhead": "62.7 km",
       "downs": [
-        "46.972 km",
-        "46.949 km"
+        "46.949 km",
+        "46.972 km"
       ]
     },
     {
@@ -304,6 +304,6 @@
     }
   ],
   "lookahead": 158,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 16
 }

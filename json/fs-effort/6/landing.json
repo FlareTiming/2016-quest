@@ -10,7 +10,7 @@
     ],
     "sumOf": 1776
   },
-  "bestDistance": null,
+  "bestDistance": "59.600000 km",
   "difficulty": [
     {
       "endChunk": "15.7 km",
@@ -277,20 +277,20 @@
       "frac": 0.31897523,
       "downers": [
         [
-          "106",
-          "Fabiano Nahoum"
-        ],
-        [
           "150",
           "Claudia Mejia"
+        ],
+        [
+          "106",
+          "Fabiano Nahoum"
         ]
       ],
       "downward": 9,
       "rel": 0.00309685,
       "endAhead": "47.1 km",
       "downs": [
-        "42.349 km",
-        "42.341 km"
+        "42.341 km",
+        "42.349 km"
       ]
     },
     {
@@ -661,6 +661,6 @@
     }
   ],
   "lookahead": 48,
-  "minDistance": "0.000 km",
+  "minDistance": "5.000 km",
   "landout": 37
 }
