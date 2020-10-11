@@ -1,0 +1,36 @@
+{
+  "zonesCrossNominees": [
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "zonesCrossExcluded": [],
+  "startSelected": null,
+  "zonesCrossSelected": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "startNominees": [
+    [
+      "2016-05-13T19:00:00Z",
+      []
+    ],
+    [
+      "2016-05-13T18:40:00Z",
+      []
+    ],
+    [
+      "2016-05-13T18:20:00Z",
+      []
+    ],
+    [
+      "2016-05-13T18:00:00Z",
+      []
+    ]
+  ]
+}

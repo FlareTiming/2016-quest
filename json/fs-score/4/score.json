@@ -534,7 +534,7 @@
         "reach": 0.92362723,
         "distance": 0.94482496,
         "leading": 0.6,
-        "effort": 0.96598044,
+        "effort": 0.96606445,
         "arrival": 0
       }
     }
@@ -570,7 +570,7 @@
         "reach": 0.91521747,
         "distance": 0.9335997,
         "leading": 0.56385542,
-        "effort": 0.95224324,
+        "effort": 0.95214844,
         "arrival": 0
       }
     }
@@ -606,7 +606,7 @@
         "reach": 0.93276,
         "distance": 0.95528919,
         "leading": 0.4060241,
-        "effort": 0.97773888,
+        "effort": 0.9777832,
         "arrival": 0
       }
     }
@@ -642,7 +642,7 @@
         "reach": 0.94664942,
         "distance": 0.96670472,
         "leading": 0.28072289,
-        "effort": 0.98679554,
+        "effort": 0.98681641,
         "arrival": 0
       }
     }
@@ -678,7 +678,7 @@
         "reach": 0.93253168,
         "distance": 0.95490868,
         "leading": 0.35180723,
-        "effort": 0.97747251,
+        "effort": 0.97753906,
         "arrival": 0
       }
     }
@@ -714,7 +714,7 @@
         "reach": 0.89078732,
         "distance": 0.89707002,
         "leading": 0,
-        "effort": 0.90361125,
+        "effort": 0.90356445,
         "arrival": 0
       }
     }
@@ -750,7 +750,7 @@
         "reach": 0.86658549,
         "distance": 0.85901826,
         "leading": 0,
-        "effort": 0.85147837,
+        "effort": 0.8515625,
         "arrival": 0
       }
     }
@@ -786,7 +786,7 @@
         "reach": 0.77392595,
         "distance": 0.73059361,
         "leading": 0.74578313,
-        "effort": 0.68727882,
+        "effort": 0.68725586,
         "arrival": 0
       }
     }
@@ -822,7 +822,7 @@
         "reach": 0.84980403,
         "distance": 0.83124049,
         "leading": 0,
-        "effort": 0.81270216,
+        "effort": 0.81274414,
         "arrival": 0
       }
     }
@@ -858,7 +858,7 @@
         "reach": 0.78987024,
         "distance": 0.74866819,
         "leading": 0.34698795,
-        "effort": 0.70733285,
+        "effort": 0.70727539,
         "arrival": 0
       }
     }
@@ -894,7 +894,7 @@
         "reach": 0.74295065,
         "distance": 0.69159056,
         "leading": 0.64698795,
-        "effort": 0.64047338,
+        "effort": 0.64038086,
         "arrival": 0
       }
     }
@@ -930,7 +930,7 @@
         "reach": 0.78077552,
         "distance": 0.73839422,
         "leading": 0.31807229,
-        "effort": 0.69603105,
+        "effort": 0.69604492,
         "arrival": 0
       }
     }
@@ -966,7 +966,7 @@
         "reach": 0.73164885,
         "distance": 0.67656012,
         "leading": 0.58192771,
-        "effort": 0.62133262,
+        "effort": 0.62133789,
         "arrival": 0
       }
     }
@@ -1002,7 +1002,7 @@
         "reach": 0.7459949,
         "distance": 0.695586,
         "leading": 0.1313253,
-        "effort": 0.64526808,
+        "effort": 0.64526367,
         "arrival": 0
       }
     }
@@ -1038,7 +1038,7 @@
         "reach": 0.69534609,
         "distance": 0.61700913,
         "leading": 0.39879518,
-        "effort": 0.53887134,
+        "effort": 0.53881836,
         "arrival": 0
       }
     }
@@ -1074,7 +1074,7 @@
         "reach": 0.72556033,
         "distance": 0.66723744,
         "leading": 0,
-        "effort": 0.60907949,
+        "effort": 0.60913086,
         "arrival": 0
       }
     }
@@ -1110,7 +1110,7 @@
         "reach": 0.69207352,
         "distance": 0.61111111,
         "leading": 0.3253012,
-        "effort": 0.53030937,
+        "effort": 0.53027344,
         "arrival": 0
       }
     }
@@ -1146,7 +1146,7 @@
         "reach": 0.65280262,
         "distance": 0.54318874,
         "leading": 0,
-        "effort": 0.4336162,
+        "effort": 0.43359375,
         "arrival": 0
       }
     }
@@ -1182,7 +1182,7 @@
         "reach": 0.61859279,
         "distance": 0.49334094,
         "leading": 0,
-        "effort": 0.36801248,
+        "effort": 0.36791992,
         "arrival": 0
       }
     }
@@ -1218,7 +1218,7 @@
         "reach": 0.55957228,
         "distance": 0.4303653,
         "leading": 0.17951807,
-        "effort": 0.30130522,
+        "effort": 0.30126953,
         "arrival": 0
       }
     }
@@ -1254,7 +1254,7 @@
         "reach": 0.57719091,
         "distance": 0.4478691,
         "leading": 0,
-        "effort": 0.31861943,
+        "effort": 0.31860352,
         "arrival": 0
       }
     }
@@ -1290,7 +1290,7 @@
         "reach": 0.47973667,
         "distance": 0.35350076,
         "leading": 0,
-        "effort": 0.22729175,
+        "effort": 0.22729492,
         "arrival": 0
       }
     }
@@ -1326,7 +1326,7 @@
         "reach": 0.47783401,
         "distance": 0.35159817,
         "leading": 0,
-        "effort": 0.22557936,
+        "effort": 0.22558594,
         "arrival": 0
       }
     }
@@ -1362,7 +1362,7 @@
         "reach": 0.43749762,
         "distance": 0.31240487,
         "leading": 0,
-        "effort": 0.18725979,
+        "effort": 0.18725586,
         "arrival": 0
       }
     }
@@ -1398,7 +1398,7 @@
         "reach": 0.34830092,
         "distance": 0.23078387,
         "leading": 0,
-        "effort": 0.11339853,
+        "effort": 0.11328125,
         "arrival": 0
       }
     }
@@ -1434,7 +1434,7 @@
         "reach": 0.24407321,
         "distance": 0.15848554,
         "leading": 0,
-        "effort": 0.07271966,
+        "effort": 0.07275391,
         "arrival": 0
       }
     }
@@ -1470,7 +1470,7 @@
         "reach": 0.14680924,
         "distance": 0.09303653,
         "leading": 0,
-        "effort": 0.03923285,
+        "effort": 0.03930664,
         "arrival": 0
       }
     }
